@@ -1,0 +1,23 @@
+/* 
+    Document   : google-maps.css
+    Created on : Nov 9, 2010, 10:44:00 AM
+    Author     : donny
+    Description:
+        Styling google maps area
+*/
+
+.map {
+    display: block;
+    width: 130px;
+    height: 130px;
+}
+#map_canvas {
+    display: block;
+    width: 400px;
+    height: 400px;
+}
+.map div, #map_canvas div {
+    margin:0;
+    padding:0;
+    line-height:1em;
+}

@@ -1,0 +1,8 @@
+/*
+ *
+ */
+jQuery(function($){
+    $("#ItemLimit").bind('change', function(){
+        //$("#ItemAdminIndexForm").submit();
+    });
+});

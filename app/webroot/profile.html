@@ -1,0 +1,225 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Gee*eight</title>
+        <meta name="description" content="description for your website" />
+        <meta name="keywords" content="fashion, shirt, jacket..." />
+        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" title="no title" />
+        <link rel="stylesheet" href="css/dd.css" type="text/css" media="screen" title="no title" />
+        <script type="text/javascript" src="js/jquery/jquery-1.4.4.js"></script> 
+        <script type="text/javascript" src="js/jquery/jquery.dd.js"></script>
+        <script type="text/javascript" src="js/jquery/jquery.labelify.js"></script>
+    </head> 
+    <body>
+		<div class="allcontainer">
+        <div id="header">
+            <div class="container">
+				<div class="logo">  
+					<a href="#"><img src="images/logo.png" alt="logo"/></a>
+                </div>
+                <div class="lang-search">
+                    <div class="lang">
+                        <label>Language:</label>
+                        <select id="lang" >
+                            <option class="id" value="id">Indonesia</option>
+                            <option class="en" value="en">English</option>
+                        </select>
+                    </div>
+                    <div class="cart-search">
+                        <div class="cart">
+                            <a href="#">Shopping bag </a>
+                        </div>
+                        <form class="search" action="#" method="post">
+                            <fieldset>
+                                <input class="search-header" type="text" title="search..." name="search" value="" size="20" maxlength="256"/>
+                                <input type="image" src="images/button-search.png"/>                                
+                            </fieldset>
+                        </form>
+                    </div>
+                </div>
+				<div class="login">
+                    <ul>
+                        <li><a href="#" class="first">Sign In</a></li>
+                        <li><a href="#">Sign Up</a></li>     
+                    </ul>
+                </div>
+			</div>
+			<div class="menu">
+				<div class="container">
+				<ul>
+					<li><a href="#">New Arrivals</a></li>
+					<li><a href="#">Dresses</a></li>
+					<li><a href="#">Tops</a></li>
+					<li><a href="#">Jackets</a></li>
+					<li><a href="#">Bottoms</a></li>
+					<li><a href="#">Bags</a></li>
+					<li><a href="#">Sale &amp; Specials</a></li>
+					<li><a href="#">Upcoming</a></li>
+				</ul>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+        <div id="content">
+            <div class="container">			
+                <div class="left-menu right">
+					<h2>your account</h2>
+				</div>
+                 <div class="main-content submit-form profile">
+                    <h1 class="title">My Account</h1>
+                    <div class="col-1">
+                        <h2>My Profile</h2>
+                        <form accept-charset="utf-8" action="/users/register" method="post" id="UserRegisterForm" controller="users">
+                            <div style="display: none;">
+                                <input type="hidden" value="POST" name="_method">
+                            </div>
+                            <div class="input text required">
+                                <label for="UserUsername">Username</label>
+                                <span class="asterik">&#42;</span>
+                                <span class="error-message">error</span>
+                                <div class="textfield"><input type="text" id="UserUsername" maxlength="255" name="data[User][username]" value="geeight" /></div>
+                            </div>
+                            <div class="input password required">
+                                <label for="UserPasswd">Current Password</label>
+                                <span class="asterik">&#42;</span>
+                                <span class="error-message">error</span>
+                                <div class="textfield"><input type="password" id="UserPasswd" name="data[User][passwd]"></div>
+                            </div>
+                            <div class="input password required">
+                                <label for="UserPasswd">New Password</label>
+                                <span class="asterik">&#42;</span>
+                                <span class="error-message">error</span>
+                                <div class="textfield"><input type="password" id="UserPasswd" name="data[User][passwd]"></div>
+                            </div>
+                            <div class="input password required">
+                                <label for="UserPasswdConfirmation">Password Confirmation</label>
+                                <span class="asterik">&#42;</span>
+                                <span class="error-message">error</span>
+                                <div class="textfield"><input type="password" id="UserPasswdConfirmation" name="data[User][passwd_confirmation]"></div>
+                            </div>
+                            <div class="input text required">
+                                <label for="UserEmailAddress">Email Address</label>
+                                <span class="asterik">&#42;</span>
+                                <span class="error-message">error</span>
+                                <div class="textfield"><input type="text" id="UserEmailAddress" maxlength="127" name="data[User][email_address]" value="geeeight@yahoo.com" ></div>
+                            </div>
+                            <div class="input text required">
+                                <label for="UserFullName">Full Name</label>
+                                <span class="asterik">&#42;</span>
+                                <span class="error-message">error</span>
+                                <div class="textfield"><input type="text" id="UserFullName" maxlength="255" name="data[User][full_name]" value="geeeight fullname" ></div>
+                            </div>
+                            <div class="input textarea">
+                                <label for="UserAddress">Address</label>
+                                <div class="text-area"><textarea id="UserAddress" rows="6" cols="30" name="data[User][address]">jalan progo no 8 bandung 40000</textarea></div>
+                            </div>
+                            <div class="input text required">
+                                <label for="UserPhoneNumber">Phone Number</label>
+                                <span class="asterik">&#42;</span>
+                                <span class="error-message">error</span>
+                                <div class="textfield"><input type="text" id="UserPhoneNumber" maxlength="16" name="data[User][phone_number]" value="081800000008" ></div>
+                            </div>
+                            <div style="" id="recaptcha_div" class=" recaptcha_nothad_incorrect_sol recaptcha_isnot_showing_audio">
+                            
+                            </div>
+                            <div>
+                                <input type="image" src="images/save.png" />
+                                <a class="but-continue" href="#" title="continue shopping"></a>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-2 shopping">
+                        <h2>My Shopping Activity</h2>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th class="id-trans">Id Transaksi</th>
+                                    <th class="date">Tanggal Transaksi</th>
+                                    <th class="status">Status</th>
+                                    <th class="qty">Jumlah barang</th>
+                                    <th class="total">Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="id-trans"><a href="#" title="view detail transaksi 1">Transaksi 1</a></td>
+                                    <td class="date">19/12/2010</td>
+                                    <td class="status">deliver</td>
+                                    <td class="qty">2</td>
+                                    <td class="total">Rp. 200.000</td>
+                                </tr>
+                                <tr>
+                                    <td class="id-trans"><a href="#" title="view detail transaksi 2">Transaksi 2</a></td>
+                                    <td class="date">01/12/2010</td>
+                                    <td class="status">deliver</td>
+                                    <td class="qty">2</td>
+                                    <td class="total">Rp. 250.000</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="required-field">click transaction id to view detail</p>
+                    </div>
+					<div class="clear"></div>
+				</div>
+            </div>
+			<div class="clear"></div>
+        </div>
+        <div id="footer">
+			<div class="container">
+				<div class="col-1">
+					<p>Information</p><hr/>
+					how to shop<br/>
+					how to pay<br/>
+                    how to claim<br/>
+					Terms and conditions
+				</div>
+				<div class="col-2">
+					<p>About Us</p><hr/>
+					Store Location<br/>
+					Partnership<br/>
+                    Career with Us<br/>
+					Contact Us
+				</div>
+				<div class="col-3">
+                    <a class="twitter" href="#">Follow Our Twiter</a><br/>
+                    <a class="facebook" href="#">Became Fan of Us</a><br/>
+                    <a class="youtube" href="#">Our Videos on Youtube</a>
+				</div>
+                <div class="col-4">
+                    <a class="buyer" href="pingbox.html" >Buyer</a><br/>
+                    <a class="reseller" href="pingbox.html" >Reseller</a>	
+				</div>
+                <div class="col-5">
+                    <p>newsletter</p>
+					<form class="newsletter" action="#" method="post">
+						<fieldset>
+							<input class="newsletter-input tip" type="text" title="your email address" name="newsletter" value="" size="28" maxlength="256"/>
+                            <input type="image" src="images/button-newsletter.png" alt="newsletter"/>                             
+						</fieldset>
+					</form>
+				</div>
+				<div class="copyright">					
+                    <hr/>
+                    <br/>
+					&copy; 2010 Gee*Eight All Right Reserved
+				</div>
+                <div class="clear"></div>
+            </div>
+        </div>               
+		</div>
+        <script type="text/javascript">           
+            $(document).ready(function() {
+                try {
+                    $("#lang").msDropDown({useSprite:'sprite'});                    
+                }catch(e) {
+                    alert("Error: "+e.message);
+                }
+                $(".tip").labelify({labelledClass: "labelinside"});
+            });
+        </script>
+        </div>
+    </body>
+</html>

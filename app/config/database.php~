@@ -77,7 +77,7 @@ class DATABASE_CONFIG {
 		'driver' => 'mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'k5138932_g8',
+		'login' => 'root',
 		'password' => '12345',
 		'database' => 'k5138932_g8',
 		'prefix' => '',
