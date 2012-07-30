@@ -1,0 +1,9 @@
+---
+DOWN: 
+  query:
+    - "DELETE FROM `settings` WHERE `setting_key`='pingbox_buyer_code' "
+    - "DELETE FROM `settings` WHERE `setting_key`='pingbox_reseller_code' "
+UP: 
+  query:
+    - "INSERT INTO `settings` (`setting_key`, `setting_group`, `setting_type`, `setting_label`, `setting_value`, `setting_options`, `setting_weight`, `created`, `modified`) VALUES ('pingbox_buyer_code', 'PingBox', 'textarea', 'Pingbox Code for Buyer', '<object id="pingbox6f6sgvwayb00?" type="application/x-shockwave-flash" data="http://wgweb.msg.yahoo.com/badge/Pingbox.swf" width="240" height="420"><param name="movie" value="http://wgweb.msg.yahoo.com/badge/Pingbox.swf" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="wid=ktFVdme8GyxRNhsXR.hEyyNFunTA" /></object>', NULL, 1, NOW(), NOW())"
+    - "INSERT INTO `settings` (`setting_key`, `setting_group`, `setting_type`, `setting_label`, `setting_value`, `setting_options`, `setting_weight`, `created`, `modified`) VALUES ('pingbox_reseller_code', 'PingBox', 'textarea', 'Pingbox Code for Reseller', '<object id="pingbox6f6sgvwayb00?" type="application/x-shockwave-flash" data="http://wgweb.msg.yahoo.com/badge/Pingbox.swf" width="240" height="420"><param name="movie" value="http://wgweb.msg.yahoo.com/badge/Pingbox.swf" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="wid=ktFVdme8GyxRNhsXR.hEyyNFunTA" /></object>', NULL, 2, NOW(), NOW())"

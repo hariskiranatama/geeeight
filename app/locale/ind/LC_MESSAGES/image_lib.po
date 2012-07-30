@@ -1,0 +1,74 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gee*Eight Version 1.0\n"
+"POT-Creation-Date: 2011-01-27 16:58+0700\n"
+"PO-Revision-Date: 2011-01-27 16:59+0700\n"
+"Last-Translator: Teguh Pratama <teguh.p@kiranatama.com>\n"
+"Language-Team: WGS <info@wgs.co.id>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: /libs/image_lib.php:157
+msgid "You must specify a source image in your preferences."
+msgstr ""
+
+#: /libs/image_lib.php:171
+msgid "Your server must support the GD image library in order to determine the image properties."
+msgstr ""
+
+#: /libs/image_lib.php:410
+msgid "An angle of rotation is required to rotate the image."
+msgstr ""
+
+#: /libs/image_lib.php:566;635
+msgid "The path to your image library is not correct.  Please set the correct path in your image preferences."
+msgstr ""
+
+#: /libs/image_lib.php:610;692
+msgid "Image processing failed.  Please verify that your server supports the chosen protocol and that the path to your image library is correct."
+msgstr ""
+
+#: /libs/image_lib.php:720
+msgid "Image rotation does not appear to be supported by your server."
+msgstr ""
+
+#: /libs/image_lib.php:885
+msgid "The GD image library is required for this feature."
+msgstr ""
+
+#: /libs/image_lib.php:1003
+msgid "Unable to find a font to use."
+msgstr ""
+
+#: /libs/image_lib.php:1152;1161;1170;1179;1202;1215;1233;1244
+msgid "Your server does not support the GD function required to process this type of image."
+msgstr ""
+
+#: /libs/image_lib.php:1152;1202
+msgid "GIF images are often not supported due to licensing restrictions.  You may have to use JPG or PNG images instead."
+msgstr ""
+
+#: /libs/image_lib.php:1161;1215
+msgid "JPG images are not supported."
+msgstr ""
+
+#: /libs/image_lib.php:1170;1233
+msgid "PNG images are not supported."
+msgstr ""
+
+#: /libs/image_lib.php:1208;1226;1239
+msgid "Unable to save the image.  Please make sure the image and file directory are writable."
+msgstr ""
+
+#: /libs/image_lib.php:1348
+msgid "The path to the image is not correct."
+msgstr ""
+

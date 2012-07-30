@@ -1,0 +1,11 @@
+---
+UP:
+  add_fields:
+    events:
+      teaser:
+        type: string
+        length: 255
+DOWN:
+  drop_fields:
+    events:
+      - teaser

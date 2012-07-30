@@ -1,0 +1,13 @@
+---
+UP:
+  add_fields:
+    addresses:
+      phone_number:
+        type: string
+        default: false
+        length: 16
+        - not_null
+DOWN:
+ drop_fields:
+  addresses:
+      - phone_number

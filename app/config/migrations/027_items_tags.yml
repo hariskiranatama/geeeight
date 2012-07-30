@@ -1,0 +1,17 @@
+---
+DOWN: 
+  drop_table: 
+    - items_tags
+UP: 
+  create_table: 
+    items_tags:
+      item_id:
+        type: int
+        length: 11
+        - not_null
+      tag_id:
+        type: int
+        length: 11
+        - not_null
+      - no_id
+      - no_dates

@@ -1,0 +1,21 @@
+---
+DOWN: 
+  drop_field:
+    products_tags:
+      tag_id: tag_id
+  add_field:
+    products_tags:
+      tags_id:
+        type: int
+        length: 11
+        - not_null
+UP: 
+  drop_field:
+    products_tags:
+      tags_id: tags_id
+  add_field:
+    products_tags:
+      tag_id:
+        type: int
+        length: 11
+        - not_null

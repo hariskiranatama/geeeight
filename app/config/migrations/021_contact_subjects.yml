@@ -1,0 +1,30 @@
+---
+DOWN: 
+  drop_table: 
+    - contact_subjects
+  drop_fields:
+    contacts:
+      contact_subject_id: contact_subject_id
+UP: 
+  create_table: 
+    contact_subjects:
+      subject:
+        type: string
+        default: false
+        length: 50
+        - not_null
+      subject_en:
+        type: string
+        default: false
+        length: 50
+        - not_null
+      destination_email_address:
+        type: string
+        default: false
+        length: 127
+        - not_null
+  add_fields:
+    contacts:
+      contact_subject_id:
+        type: int
+        length: 11

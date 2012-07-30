@@ -1,0 +1,10 @@
+---
+DOWN: 
+  drop_table: 
+    - albums
+UP: 
+  create_table:
+    albums:
+      album_name:
+        type: string
+        length: 255

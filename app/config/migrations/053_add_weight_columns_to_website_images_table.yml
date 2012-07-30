@@ -1,0 +1,12 @@
+---
+UP:
+  add_fields:
+    website_images:
+      weight:
+        type: int
+        length: 11
+        default: 1
+DOWN:
+  drop_fields:
+    website_images:
+      - weight

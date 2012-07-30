@@ -1,0 +1,1807 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gee*Eight Version 1.0\n"
+"POT-Creation-Date: 2011-01-27 17:00+0700\n"
+"PO-Revision-Date: 2011-01-27 17:13+0700\n"
+"Last-Translator: Teguh Pratama <teguh.p@kiranatama.com>\n"
+"Language-Team: WGS <info@wgs.co.id>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: /controllers/carts_controller.php:286;312;357
+#: /controllers/events_controller.php:214
+#: /controllers/items_controller.php:255
+msgid "Email has been sent!"
+msgstr "Email telah terkirim!"
+
+#: /controllers/carts_controller.php:290
+#: /controllers/events_controller.php:218
+#: /controllers/items_controller.php:259
+msgid "Sending email failed! Try again later."
+msgstr "Mengirim email gagal! Coba lagi nanti."
+
+#: /controllers/carts_controller.php:425;488
+msgid "My Shopping Cart"
+msgstr "Keranjang Belanja"
+
+#: /controllers/carts_controller.php:448
+msgid "Please select address or create another address!"
+msgstr "Silakan pilih alamat atau membuat alamat lain!"
+
+#: /controllers/carts_controller.php:459
+msgid "Thanks for buying, wait for an email confirmation from us"
+msgstr "Terima kasih telah membeli, tunggu email konfirmasi dari kami."
+
+#: /controllers/contacts_controller.php:32
+#: /controllers/users_controller.php:72;185;224
+msgid "Wrong captcha, please try again!"
+msgstr "Kode captcha yang Anda tuliskan salah, silahkan diulangi kembali!"
+
+#: /controllers/contacts_controller.php:39
+msgid "We have received your message, Thank you!"
+msgstr "Kami telah menerima pesan Anda, Terima kasih!"
+
+#: /controllers/contacts_controller.php:44
+#: /views/contacts/index.ctp:6
+#: /views/layouts/default.ctp:131
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: /controllers/events_controller.php:142
+msgid "News &amp; Events RSS Feeds"
+msgstr "RSS Feed Berita &amp; Event"
+
+#: /controllers/events_controller.php:162
+#: /views/events/index.ctp:4
+#: /views/events/view.ctp:4
+msgid "News &amp; Events"
+msgstr "News &amp; Event"
+
+#: /controllers/events_controller.php:180
+msgid "News &amp; Events Detail"
+msgstr "Detil Berita &amp; Event"
+
+#: /controllers/events_controller.php:224
+#: /controllers/items_controller.php:265
+msgid "Email to Friend"
+msgstr "Email ke Teman"
+
+#: /controllers/info_pages_controller.php:25
+#: /views/elements/menu.ctp:12
+#: /views/info_pages/index.ctp:18
+#: /views/layouts/default.ctp:120
+msgid "Information"
+msgstr "Informasi"
+
+#: /controllers/items_controller.php:221
+#: /views/items/email.ctp:6
+msgid " of Gee*Eight"
+msgstr " dari Gee*Eight"
+
+#: /controllers/items_controller.php:331
+#: /views/items/search.ctp:3
+msgid "Search Result"
+msgstr "Hasil pencarian"
+
+#: /controllers/items_controller.php:345
+msgid "Sorry we didn't have stock for this item"
+msgstr "Maaf kami tidak punya stok untuk item ini"
+
+#: /controllers/newsletters_controller.php:64
+msgid "You have been subscribe. Check your email for confirmation link before you can get notifications!"
+msgstr "Kamu telah berlanggganan. Cek email Anda untuk link konfirmasi sebelum Anda mendapatkan notifikasi!"
+
+#: /controllers/newsletters_controller.php:67
+msgid "You have been subscribe, but sending confirmation email is failed. Contact our administrator!"
+msgstr "Kamu telah berlangganan, tapi email konfirmasi gagal dikirim. Hubungi administrator kami!"
+
+#: /controllers/newsletters_controller.php:89;93
+msgid "Wrong confirmation link!"
+msgstr "Link konfirmasi salah!"
+
+#: /controllers/newsletters_controller.php:97
+msgid "Your e-mail have been confirmed. Now you can receive newsletter in your inbox."
+msgstr "Email anda telah dikonfirmasi, Sekarang anda bisa menerima newsletter di kotak masuk."
+
+#: /controllers/newsletters_controller.php:100
+msgid "Failed to activate your e-mail, please contact our administrator!"
+msgstr "Aktivasi e-mail Anda gagal, silahkan hubungi administrator kami!"
+
+#: /controllers/pages_controller.php:89
+msgid "Welcome to Gee*eight"
+msgstr "Selamat datang di Gee*eight"
+
+#: /controllers/polls_controller.php:155
+msgid "Poll has been voted!"
+msgstr "Poll telah dipilih!"
+
+#: /controllers/polls_controller.php:157
+msgid "Poll failed to vote!"
+msgstr "Poll gagal dipilih!"
+
+#: /controllers/polls_controller.php:161
+msgid "Please answer Questionnaire first."
+msgstr "Jawab Kuesioner terlebih dahulu."
+
+#: /controllers/products_controller.php:9
+msgid "Cannot find the Product data!"
+msgstr "Data Produk tidak ditemukan!"
+
+#: /controllers/stores_controller.php:13
+#: /views/layouts/default.ctp:128
+msgid "Stores Location"
+msgstr "Lokasi Toko"
+
+#: /controllers/users_controller.php:32
+#: /views/layouts/default.ctp:82
+#: /views/users/login.ctp:6
+msgid "Sign In"
+msgstr "Masuk"
+
+#: /controllers/users_controller.php:58
+msgid "You have been registered. Check your email for activation link before you can sign in!"
+msgstr "Pendaftaran berhasil. Cek link aktivasi yang telah dikirimkan ke email Anda sebelum Anda bisa masuk!"
+
+#: /controllers/users_controller.php:61
+msgid "You have been registered, but sending activation email is failed. Contact our administrator!"
+msgstr "Pendaftaran berhasil, tapi email aktivasi gagal dikirim. Hubungi administrator kami!"
+
+#: /controllers/users_controller.php:78
+msgid "Sign up"
+msgstr "Daftar"
+
+#: /controllers/users_controller.php:96
+msgid "Profile have been modified."
+msgstr "Profile sudah di ubah."
+
+#: /controllers/users_controller.php:100
+msgid "Profile can't be modified."
+msgstr "Profile sudah di ubah."
+
+#: /controllers/users_controller.php:128;133
+msgid "Wrong activation link!"
+msgstr "Link aktivasi salah!"
+
+#: /controllers/users_controller.php:138
+msgid "Your account have been activated. Now you can sign in using your username/email and password."
+msgstr "Akun Anda telah diaktifkan. Sekarang Anda bisa masuk menggunakan username/alamat email dan password."
+
+#: /controllers/users_controller.php:141
+msgid "Failed to activate your account, please contact our administrator!"
+msgstr "Aktivasi akun Anda gagal, silahkan hubungi administrator kami!"
+
+#: /controllers/users_controller.php:149
+msgid "The entered email address does not exists in our system!"
+msgstr "Alamat email yang Anda masukkan tidak dapat ditemukan!"
+
+#: /controllers/users_controller.php:172
+msgid "We have send an reset password link to your email!"
+msgstr "Kami telah mengirimkan link untuk mereset password ke email Anda!"
+
+#: /controllers/users_controller.php:175
+msgid "Sending reset password link email failed. Contact our administrator"
+msgstr "Pengiriman email berisi link reset password gagal, silahkan hubungi administrator kami"
+
+#: /controllers/users_controller.php:191
+msgid "Forgotten password recovery"
+msgstr "Memulihkan password yang terlupakan"
+
+#: /controllers/users_controller.php:213
+msgid "Wrong reset link!"
+msgstr "Reset link salah!"
+
+#: /controllers/users_controller.php:218
+msgid "Wrong reset link or reset link have been expired!"
+msgstr "Reset link salah atau masa berlaku reset link telah habis!"
+
+#: /controllers/users_controller.php:229
+msgid "Now you can login using your new password"
+msgstr "Sekarang Anda bisa masuk menggunakan password yang baru saja Anda simpan"
+
+#: /controllers/users_controller.php:233
+msgid "Some error occured when saving the new password, try again or contact our administrator"
+msgstr "Terjadi kesalahan saat menyimpan password Anda yang baru, coba lagi atau hubungi administrator kami"
+
+#: /controllers/users_controller.php:237
+msgid "Reset your password"
+msgstr "Reset password Anda"
+
+#: /models/address.php:32
+msgid "Please enter your address."
+msgstr "Silahkan masukan alamat email Anda."
+
+#: /models/address.php:33
+msgid "Please enter your phone."
+msgstr "Harap masukkan nomor telepon Anda."
+
+#: /models/address.php:34
+msgid "Please enter a valid phone number."
+msgstr "Silahkan masukan no telepon yang valid."
+
+#: /models/newsletter.php:34
+msgid "Please enter an email address."
+msgstr "Silahkan masukan alamat email."
+
+#: /models/newsletter.php:35
+msgid "Please enter a valid email address."
+msgstr "Silahkan masukan alamat email yang valid."
+
+#: /models/newsletter.php:36
+msgid "This email address has already been used."
+msgstr "Alamat email ini sudah digunakan"
+
+#: /models/newsletter.php:37
+msgid "This email already used by Gee*Eight member"
+msgstr "Email ini sudah digunakan oleh anggota Gee*Eight."
+
+#: /views/carts/checkout.ctp:3
+#: /views/carts/index.ctp:3
+#: /views/carts/summary.ctp:3
+msgid "what it's in my cart"
+msgstr "apa saja di keranjang saya"
+
+#: /views/carts/checkout.ctp:6
+msgid "Check Out"
+msgstr "Check Out"
+
+#: /views/carts/checkout.ctp:10
+#: /views/carts/index.ctp:15
+#: /views/carts/summary.ctp:10
+msgid "Product Name"
+msgstr "Nama Produk"
+
+#: /views/carts/checkout.ctp:11
+#: /views/carts/index.ctp:16
+#: /views/carts/summary.ctp:11
+msgid "Size"
+msgstr "Ukuran"
+
+#: /views/carts/checkout.ctp:12
+#: /views/carts/index.ctp:17
+#: /views/carts/summary.ctp:12
+msgid "Price"
+msgstr "Harga"
+
+#: /views/carts/checkout.ctp:13
+#: /views/carts/index.ctp:18
+#: /views/carts/summary.ctp:13
+msgid "Quantity"
+msgstr "Jumlah"
+
+#: /views/carts/checkout.ctp:14
+#: /views/carts/index.ctp:19
+#: /views/carts/summary.ctp:14
+#: /views/users/profile.ctp:56
+msgid "Total"
+msgstr "Total"
+
+#: /views/carts/checkout.ctp:52
+#: /views/carts/index.ctp:54
+#: /views/carts/summary.ctp:51
+msgid "Sub Total"
+msgstr "Sub Total"
+
+#: /views/carts/checkout.ctp:62
+#: /views/carts/index.ctp:62
+#: /views/carts/summary.ctp:61
+msgid "Discount"
+msgstr "Diskon"
+
+#: /views/carts/checkout.ctp:71
+#: /views/carts/summary.ctp:70
+msgid "Sub Total after discount"
+msgstr "Sub Total setelah diskon"
+
+#: /views/carts/checkout.ctp:95
+msgid "Shipping address"
+msgstr "Alamat pengiriman"
+
+#: /views/carts/checkout.ctp:97
+#: /views/contacts/index.ctp:44
+msgid "Name"
+msgstr "Nama"
+
+#: /views/carts/checkout.ctp:101
+msgid "Email"
+msgstr "Email"
+
+#: /views/carts/checkout.ctp:105
+msgid "Address &amp; Phone"
+msgstr "Alamat &amp; Telepon"
+
+#: /views/carts/index.ctp:6
+msgid "Shopping Cart"
+msgstr "Keranjang Belanja"
+
+#: /views/carts/index.ctp:8
+msgid "Shopping Cart currently empty"
+msgstr "Keranjang belanja masih kosong"
+
+#: /views/carts/index.ctp:14
+msgid "Remove"
+msgstr "Hapus"
+
+#: /views/carts/index.ctp:69
+msgid "Total after discount"
+msgstr "Total setelah diskon"
+
+#: /views/carts/index.ctp:95
+#: /views/events/index.ctp:59
+msgid "previous | "
+msgstr "sebelumnya |"
+
+#: /views/carts/index.ctp:97
+#: /views/events/index.ctp:61
+msgid " | next"
+msgstr "| selanjutnya"
+
+#: /views/carts/summary.ctp:6
+msgid "Summary"
+msgstr "Ringkasan"
+
+#: /views/categories/index.ctp:12
+#: /views/items/view.ctp:10
+#: /views/tags/index.ctp:20
+msgid "Tags"
+msgstr "Tags"
+
+#: /views/categories/index.ctp:40
+msgid "Sort by&nbsp;&nbsp;&nbsp;"
+msgstr "Urut berdasarkan&nbsp;&nbsp;&nbsp;"
+
+#: /views/categories/index.ctp:85
+msgid "Recently viewed"
+msgstr "Baru dilihat"
+
+#: /views/contacts/index.ctp:3
+msgid "customer services"
+msgstr "pelayanan pelanggan"
+
+#: /views/contacts/index.ctp:8
+msgid "Customer care Center"
+msgstr "Pusat layanan Pelanggan"
+
+#: /views/contacts/index.ctp:10
+msgid "Office"
+msgstr "Kantor Pusat"
+
+#: /views/contacts/index.ctp:15
+msgid "Wholesale"
+msgstr "Wholesale Department"
+
+#: /views/contacts/index.ctp:20
+msgid "Promotion"
+msgstr "Marketing & Promotion"
+
+#: /views/contacts/index.ctp:20
+msgid "media partner"
+msgstr "media partner"
+
+#: /views/contacts/index.ctp:20
+msgid "wardrobe"
+msgstr "wardrobe"
+
+#: /views/contacts/index.ctp:20
+msgid "sponsorship"
+msgstr "sponsorship"
+
+#: /views/contacts/index.ctp:22;27
+msgid "Mail"
+msgstr "Surat "
+
+#: /views/contacts/index.ctp:25
+msgid "Sales"
+msgstr "Sales"
+
+#: /views/contacts/index.ctp:25
+msgid "On Line Sales"
+msgstr "Online Department"
+
+#: /views/contacts/index.ctp:32
+msgid "Contact Information"
+msgstr "Kontak Informasi"
+
+#: /views/contacts/index.ctp:33
+msgid "Please fill the information below, our customer representative will contact you back."
+msgstr "Silahkan mengisi informasi di bawah ini, wakil pelanggan kami akan menghubungi Anda kembali."
+
+#: /views/contacts/index.ctp:45
+#: /views/events/email.ctp:27
+#: /views/items/email.ctp:20
+#: /views/users/profile.ctp:22
+#: /views/users/register.ctp:21
+msgid "Email Address"
+msgstr "Alamat Email"
+
+#: /views/contacts/index.ctp:47
+msgid "Subject"
+msgstr "Subyek"
+
+#: /views/contacts/index.ctp:54
+#: /views/events/email.ctp:30
+#: /views/items/email.ctp:23
+msgid "Message"
+msgstr "Pesan"
+
+#: /views/contacts/index.ctp:59
+#: /views/events/email.ctp:35
+#: /views/items/email.ctp:28
+#: /views/users/register.ctp:40
+msgid "Required Field"
+msgstr "Yang Diperlukan"
+
+#: /views/elements/events_in_front.ctp:4
+msgid "News"
+msgstr "Berita"
+
+#: /views/elements/events_in_front.ctp:14
+msgid "No News &amp; Event yet!"
+msgstr "Belum ada Berita &amp; Acara!"
+
+#: /views/elements/events_in_front.ctp:37
+#: /views/events/view.ctp:36
+msgid "Read"
+msgstr "Dibaca"
+
+#: /views/elements/events_in_front.ctp:44
+#: /views/events/index.ctp:45;85
+msgid "&raquo;Read More"
+msgstr "&raquo;selengkapnya"
+
+#: /views/elements/events_in_front.ctp:37
+#: /views/events/view.ctp:36
+msgid "time"
+msgid_plural "times"
+msgstr[0] "kali"
+msgstr[1] "kali"
+
+#: /views/elements/menu.ctp:4
+#: /views/galleries/index.ctp:3
+msgid "Gallery"
+msgstr "Galeri"
+
+#: /views/elements/menu.ctp:8
+msgid "News & Events"
+msgstr "Berita & Acara"
+
+#: /views/elements/menu.ctp:16
+#: /views/layouts/default.ctp:127
+msgid "About Us"
+msgstr "Tentang Kami"
+
+#: /views/elements/menu.ctp:20
+msgid "Site Map"
+msgstr "Site Map"
+
+#: /views/elements/polls_in_front.ctp:4
+msgid "Questionnaire"
+msgstr "Kuesioner"
+
+#: /views/elements/polls_in_front.ctp:6
+msgid "No Questionnaire yet!"
+msgstr "Belum ada Kuesioner!"
+
+#: /views/errors/missing_controller.ctp:20
+msgid "Page you are looking cannot be found!"
+msgstr "Halaman yang Anda cari tidak dapat ditemukan!"
+
+#: /views/errors/missing_controller.ctp:22
+msgid "Error"
+msgstr ""
+
+#: /views/errors/missing_controller.ctp:23
+msgid "Please check the URL or you can go back to %s."
+msgstr ""
+
+#: /views/errors/missing_controller.ctp:23
+msgid "front page"
+msgstr ""
+
+#: /views/events/email.ctp:10
+#: /views/items/email.ctp:3
+msgid "email to friend"
+msgstr "Email ke teman"
+
+#: /views/events/email.ctp:26
+#: /views/items/email.ctp:19
+msgid "Friend Name"
+msgstr "Nama teman"
+
+#: /views/events/index.ctp:26
+msgid "The Latest"
+msgstr ""
+
+#: /views/events/index.ctp:66
+msgid "Many More"
+msgstr ""
+
+#: /views/events/rss/index.ctp:8;10
+msgid "Latest News and Events"
+msgstr "Berita dan event terbaru"
+
+#: /views/info_pages/index.ctp:16
+msgid "who we are"
+msgstr "siapa kita"
+
+#: /views/info_pages/index.ctp:20
+msgid "How to shop"
+msgstr "Cara berbelanja"
+
+#: /views/info_pages/index.ctp:21
+msgid "How to pay"
+msgstr "Cara membayar"
+
+#: /views/info_pages/index.ctp:22
+msgid "How to claim"
+msgstr "Cara mengklaim"
+
+#: /views/info_pages/index.ctp:23
+msgid "Terms & conditions"
+msgstr "Syarat & kondisi"
+
+#: /views/info_pages/index.ctp:24
+msgid "Privacy policy"
+msgstr "Kebijakan privasi"
+
+#: /views/info_pages/index.ctp:25
+msgid "Legal notice"
+msgstr "Pemberitahuan hukum"
+
+#: /views/item_recomends/admin_add.ctp:26
+#: /views/item_recomends/admin_edit.ctp:27
+#: /views/item_recomends/admin_view.ctp:32
+#: /views/push_agents/admin_index.ctp:10
+msgid "Actions"
+msgstr "Actions"
+
+#: /views/item_recomends/admin_edit.ctp:29
+#: /views/item_recomends/admin_view.ctp:35
+msgid "Are you sure you want to delete this recomended item?"
+msgstr ""
+
+#: /views/item_recomends/admin_view.ctp:4
+msgid "Item Name"
+msgstr "Nama Item"
+
+#: /views/item_recomends/admin_view.ctp:9
+msgid "Recomend Id"
+msgstr ""
+
+#: /views/item_recomends/admin_view.ctp:14
+msgid "Recomend Name"
+msgstr ""
+
+#: /views/item_recomends/admin_view.ctp:19
+msgid "Created"
+msgstr "Tanggal disimpan"
+
+#: /views/item_recomends/admin_view.ctp:24
+msgid "Modified"
+msgstr "Tanggal diubah"
+
+#: /views/items/search.ctp:5
+msgid "Not found."
+msgstr "Tidak ada data."
+
+#: /views/items/view.ctp:62;145
+msgid "Stock"
+msgstr "Stok"
+
+#: /views/items/view.ctp:126
+msgid "We Also Recomend"
+msgstr "Yang direkomendasikan"
+
+#: /views/layouts/default.ctp:44
+msgid "Language"
+msgstr "Bahasa"
+
+#: /views/layouts/default.ctp:62
+msgid "Shopping bag"
+msgstr "Keranjang belanja"
+
+#: /views/layouts/default.ctp:66
+msgid "search"
+msgstr "Cari"
+
+#: /views/layouts/default.ctp:75
+msgid "Logout"
+msgstr "Keluar"
+
+#: /views/layouts/default.ctp:78
+#: /views/users/profile.ctp:6
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: /views/layouts/default.ctp:85
+msgid "Sign Up"
+msgstr "Daftar"
+
+#: /views/layouts/default.ctp:95
+msgid "New Arrival"
+msgstr "New Arrival"
+
+#: /views/layouts/default.ctp:99
+msgid "Sale & Specials"
+msgstr "Hijab by Geeeight"
+
+#: /views/layouts/default.ctp:100
+msgid "Upcoming"
+msgstr "Upcoming"
+
+#: /views/layouts/default.ctp:121
+msgid "How To Shop"
+msgstr "Cara Berbelanja"
+
+#: /views/layouts/default.ctp:122
+msgid "How To Pay"
+msgstr "Cara Membayar"
+
+#: /views/layouts/default.ctp:123
+msgid "How To Claim"
+msgstr "Cara Mengklaim"
+
+#: /views/layouts/default.ctp:124
+msgid "Terms & Conditions"
+msgstr "Syarat & Kondisi"
+
+#: /views/layouts/default.ctp:129
+msgid "Partnership"
+msgstr "Kerjasama"
+
+#: /views/layouts/default.ctp:130
+msgid "Career With Us"
+msgstr "Karir Bersama Kami"
+
+#: /views/layouts/default.ctp:134
+msgid "Follow Our Twiter"
+msgstr "Ikuti Twitter Kami"
+
+#: /views/layouts/default.ctp:135
+msgid "Became Fan of Us"
+msgstr "Menjadi Penggemar Kita"
+
+#: /views/layouts/default.ctp:136
+msgid "Our Videos on Youtube"
+msgstr "Video Kami di Youtube"
+
+#: /views/layouts/default.ctp:139
+msgid "Buyer"
+msgstr "Customer Care"
+
+#: /views/layouts/default.ctp:144
+msgid "Reseller"
+# msgstr "Pemborong"
+msgstr "Grosir"
+
+#: /views/layouts/default.ctp:157
+msgid "your email address"
+msgstr "alamat email anda"
+
+#: /views/polls/admin_add.ctp:25
+#: /views/polls/admin_edit.ctp:25
+msgid "Submit"
+msgstr "Submit"
+
+#: /views/polls/admin_index.ctp:47
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Halaman %page% dari %pages%, menampilkan %current% data dari total %count% data, mulai dari data ke-%start%, sampai dengan data ke-%end%"
+
+#: /views/polls/admin_index.ctp:51
+msgid "previous"
+msgstr "sebelumnya"
+
+#: /views/polls/admin_index.ctp:53
+msgid "next"
+msgstr "selanjutnya"
+
+#: /views/polls/index.ctp:4
+msgid "Gee*eight's survey list"
+msgstr "Daftar survey Gee*eight's"
+
+#: /views/polls/index.ctp:24
+msgid "Detail"
+msgstr "Detail"
+
+#: /views/polls/view.ctp:35
+msgid "Survey list"
+msgstr "Daftar survey"
+
+#: /views/push_agents/admin_index.ctp:24
+#: /views/push_agents/admin_view.ctp:30
+msgid "Are you sure you want to delete this push agent?"
+msgstr ""
+
+#: /views/users/forgot.ctp:3
+#: /views/users/login.ctp:3
+#: /views/users/profile.ctp:3
+#: /views/users/register.ctp:3
+#: /views/users/reset.ctp:3
+msgid "your account"
+msgstr "akun anda"
+
+#: /views/users/forgot.ctp:6
+msgid "Recover Password"
+msgstr "Pulihkan Password"
+
+#: /views/users/forgot.ctp:8
+msgid "I've Forgotten My Password!"
+msgstr "Saya Lupa Password saya!"
+
+#: /views/users/forgot.ctp:9
+msgid "If you've forgotten your password, enter your e-mail address below and we'll send you an e-mail message containing link."
+msgstr "Jika Anda lupa password Anda, masukkan alamat e-mail Anda di bawah ini dan kami akan mengirimkan Anda sebuah pesan e-mail yang berisi link."
+
+#: /views/users/forgot.ctp:20
+msgid "Your account's email"
+msgstr "Alamat Email Anda"
+
+#: /views/users/login.ctp:8
+msgid "Registered Costumer"
+msgstr "Pelanggan Terdaftar"
+
+#: /views/users/login.ctp:9
+msgid "If you've already registered with us, sign in below. Sign in information is case sensitive."
+msgstr "Jika Anda telah terdaftar dengan kami,  Sign in di bawah ini. Sign in informasi adalah case sensitive."
+
+#: /views/users/login.ctp:11
+#: /views/users/profile.ctp:19
+#: /views/users/register.ctp:18
+msgid "Username"
+msgstr "Username"
+
+#: /views/users/login.ctp:12
+#: /views/users/register.ctp:19
+msgid "Password"
+msgstr "Password"
+
+#: /views/users/login.ctp:14
+msgid "Forgot your password?"
+msgstr "Lupa password?"
+
+#: /views/users/login.ctp:19
+msgid "Create an Account"
+msgstr "Buat Akun"
+
+#: /views/users/login.ctp:20
+msgid "Register with GeeEight.com to enjoy personalized services, including:"
+msgstr "Mendaftar dengan GeeEight.com untuk menikmati layanan pribadi, termasuk:"
+
+#: /views/users/login.ctp:22
+msgid "Online order status"
+msgstr "Online status pesanan"
+
+#: /views/users/login.ctp:23
+msgid "Wish List"
+msgstr ""
+
+#: /views/users/login.ctp:24
+msgid "Exclusive emails"
+msgstr ""
+
+#: /views/users/login.ctp:25
+msgid "Address Book"
+msgstr ""
+
+#: /views/users/login.ctp:26
+msgid "1-step express checkout"
+msgstr ""
+
+#: /views/users/login.ctp:27
+msgid "Gift Reminders"
+msgstr ""
+
+#: /views/users/login.ctp:31
+msgid "create account"
+msgstr ""
+
+#: /views/users/profile.ctp:8
+msgid "My Profile"
+msgstr "Profil Saya"
+
+#: /views/users/profile.ctp:20
+#: /views/users/reset.ctp:6;18
+msgid "New Password"
+msgstr "Password Baru"
+
+#: /views/users/profile.ctp:21
+#: /views/users/register.ctp:20
+#: /views/users/reset.ctp:19
+msgid "Password Confirmation"
+msgstr "Konfirmasi Password"
+
+#: /views/users/profile.ctp:23
+#: /views/users/register.ctp:22
+msgid "Full Name"
+msgstr "Nama Lengkap"
+
+#: /views/users/profile.ctp:25
+#: /views/users/register.ctp:24
+msgid "Address"
+msgstr "Alamat"
+
+#: /views/users/profile.ctp:29
+#: /views/users/register.ctp:28
+msgid "Phone Number"
+msgstr "Nomer Telepon"
+
+#: /views/users/profile.ctp:32
+#: /views/users/register.ctp:31
+msgid "Join Newsletter"
+msgstr "Berlangganan Newsletter"
+
+#: /views/users/profile.ctp:40
+msgid "continue shopping"
+msgstr ""
+
+#: /views/users/profile.ctp:45
+msgid "My Shopping Activity"
+msgstr "Aktivitas Belanja Saya"
+
+#: /views/users/profile.ctp:47
+msgid "No shopping activity"
+msgstr "Tidak ada aktivitas belanja"
+
+#: /views/users/profile.ctp:52
+msgid "Transaction Id"
+msgstr "Id Transaksi"
+
+#: /views/users/profile.ctp:53
+msgid "Transaction Date"
+msgstr "Tanggal Transaksi"
+
+#: /views/users/profile.ctp:54
+msgid "Status"
+msgstr "Status"
+
+#: /views/users/profile.ctp:55
+msgid "Items Quantity"
+msgstr "Jumlah Barang"
+
+#: /views/users/profile.ctp:63
+msgid "Transaction"
+msgstr "Transaksi"
+
+#: /views/users/profile.ctp:68
+msgid "view detail transaksi"
+msgstr ""
+
+#: /views/users/profile.ctp:91
+msgid "Click transaction id to view detail"
+msgstr "Klik id transaksi untuk melihat perincian"
+
+#: /views/users/register.ctp:6
+msgid "Create Account"
+msgstr "Buat akun"
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr "Akses ke halaman ini tidak diperbolehkan"
+
+#~ msgid "About us"
+#~ msgstr "Tentang kami"
+#~ msgid "Contact us"
+#~ msgstr "Hubungi kami"
+#~ msgid "Id Transaksi"
+#~ msgstr "Transaksi Id"
+#~ msgid "Item Detail"
+#~ msgstr "Detil Item"
+#~ msgid "Item Size"
+#~ msgstr "Ukuran Item"
+#~ msgid "Qty"
+#~ msgstr "Jumlah"
+#~ msgid "Total Price"
+#~ msgstr "Harga Total"
+#~ msgid "remove selected item / update qty"
+#~ msgstr "Hapus item / perbaharui jumlah"
+#~ msgid "submit"
+#~ msgstr "Kirim"
+#~ msgid "Friend email"
+#~ msgstr "Email teman"
+#~ msgid "Send"
+#~ msgstr "Kirim"
+#~ msgid "News and Events"
+#~ msgstr "Berita dan Events"
+#~ msgid "RSS Feed"
+#~ msgstr "RSS Feed"
+#~ msgid " Galleries"
+#~ msgstr " Galeri"
+#~ msgid "Select album: "
+#~ msgstr "Pilih album: "
+#~ msgid "Email To Friend"
+#~ msgstr "Email Ke Teman"
+#~ msgid "Item"
+#~ msgstr "Item"
+#~ msgid "Brand"
+#~ msgstr "Merek"
+#~ msgid "Type"
+#~ msgstr "Tipe"
+#~ msgid "Group"
+#~ msgstr "Grup"
+#~ msgid "Color"
+#~ msgstr "Warna"
+#~ msgid "Description"
+#~ msgstr "Deskripsi"
+#~ msgid "login"
+#~ msgstr "masuk"
+#~ msgid "register"
+#~ msgstr "daftar"
+#~ msgid "sign in"
+#~ msgstr "masuk"
+#~ msgid "Reset Password"
+#~ msgstr "Reset Password"
+#~ msgid "New Password Confirmation"
+#~ msgstr "Konfirmasi Password Baru"
+
+#, fuzzy
+#~ msgid "Term & conditions"
+#~ msgstr "Syarat Kondisi"
+#~ msgid "Term and conditions"
+#~ msgstr "Syarat dan kondisi"
+#~ msgid "Type Name"
+#~ msgstr "Nama Tipe"
+#~ msgid "Brand Name"
+#~ msgstr "Nama Merek"
+#~ msgid "Image"
+#~ msgstr "Gambar"
+#~ msgid "Sales Price"
+#~ msgstr "Harga Penjualan"
+#~ msgid "Buy"
+#~ msgstr "Beli"
+#~ msgid "Subscribe"
+#~ msgstr "Berlangganan newsletter"
+#~ msgid "Edit"
+#~ msgstr "Edit"
+#~ msgid "Term and condition"
+#~ msgstr "Syarat dan kondisi"
+#~ msgid "Career"
+#~ msgstr "Karir"
+#~ msgid "No Latest News and Event yet!"
+#~ msgstr "Belum ada berita dan event baru!"
+#~ msgid "Screen 1"
+#~ msgstr "Screen 1"
+#~ msgid "Screen 2"
+#~ msgstr "Screen 2"
+#~ msgid "Screen 3"
+#~ msgstr "Screen 3"
+#~ msgid "Vote"
+#~ msgstr "Pilihan suara"
+#~ msgid "Delete"
+#~ msgstr "Delete"
+#~ msgid "Invalid album"
+#~ msgstr "Album tidak ditemukan"
+#~ msgid "The album has been saved"
+#~ msgstr "Album telah disimpan"
+#~ msgid "The album could not be saved. Please, try again."
+#~ msgstr "Album tidak bisa disimpan. Silahkan coba kembali."
+#~ msgid "Invalid id for album"
+#~ msgstr "Album id salah"
+#~ msgid "Album deleted"
+#~ msgstr "Album telah dihapus"
+#~ msgid "Album was not deleted"
+#~ msgstr "Album gagal dihapus"
+#~ msgid "Invalid id for cart"
+#~ msgstr "Cart id salah"
+#~ msgid "Cart was not deleted"
+#~ msgstr "Cart tidak berhasil dihapus"
+#~ msgid "Invalid category"
+#~ msgstr "Kategori tidak ditemukan"
+#~ msgid "The category has been saved"
+#~ msgstr "Kategori telah disimpan"
+#~ msgid "The category could not be saved. Please, try again."
+#~ msgstr "Kategori tidak dapat disimpan, silahkan coba kembali."
+#~ msgid "Invalid id for category"
+#~ msgstr "Id untuk kategori salah"
+#~ msgid "Category deleted"
+#~ msgstr "Kategori telah dihapus"
+#~ msgid "Category was not deleted"
+#~ msgstr "Kategori tidak dapat dihapus"
+#~ msgid "Contact Us Message Detail"
+#~ msgstr "Pesan Detail Hubungi Kami"
+
+#, fuzzy
+#~ msgid "News &amp; Event have been deleted!"
+#~ msgstr "RSS Feed Berita &amp; Event"
+#~ msgid "Invalid gallery"
+#~ msgstr "Invalid gallery"
+
+#, fuzzy
+#~ msgid "The gallery has been saved"
+#~ msgstr "Kategori telah disimpan"
+#~ msgid "The gallery could not be saved. Please, try again."
+#~ msgstr "The gallery could not be saved. Please, try again."
+
+#, fuzzy
+#~ msgid "Invalid id for gallery"
+#~ msgstr "Id untuk kategori salah"
+#~ msgid "Gallery deleted"
+#~ msgstr "Gallery deleted"
+
+#, fuzzy
+#~ msgid "Gallery was not deleted"
+#~ msgstr "Kategori tidak dapat dihapus"
+
+#, fuzzy
+#~ msgid "Information have been saved."
+#~ msgstr "The setting has been saved"
+
+#, fuzzy
+#~ msgid "Cannot find the Informations data!"
+#~ msgstr "Data Produk tidak ditemukan!"
+#~ msgid "Information Detail"
+#~ msgstr "Information Detail"
+#~ msgid "Invalid item brand"
+#~ msgstr "Invalid item brand"
+#~ msgid "The item brand could not be saved. Please, try again."
+#~ msgstr "The item brand could not be saved. Please, try again."
+#~ msgid "Invalid id for item brand"
+#~ msgstr "Invalid id for item brand"
+#~ msgid "Item brand deleted"
+#~ msgstr "Item brand deleted"
+#~ msgid "Item brand was not deleted"
+#~ msgstr "Item brand was not deleted"
+#~ msgid "Invalid item category"
+#~ msgstr "Invalid item category"
+#~ msgid "The item category has been saved"
+#~ msgstr "The item category has been saved"
+#~ msgid "The item category could not be saved. Please, try again."
+#~ msgstr "The item category could not be saved. Please, try again."
+#~ msgid "Invalid id for item category"
+#~ msgstr "Invalid id for item category"
+#~ msgid "Item category deleted"
+#~ msgstr "Item category deleted"
+#~ msgid "Item category was not deleted"
+#~ msgstr "Item category was not deleted"
+#~ msgid "Invalid item color"
+#~ msgstr "Invalid item color"
+#~ msgid "The item color has been saved"
+#~ msgstr "The item color has been saved"
+#~ msgid "The item color could not be saved. Please, try again."
+#~ msgstr "The item color could not be saved. Please, try again."
+#~ msgid "Invalid id for item color"
+#~ msgstr "Invalid id for item color"
+#~ msgid "Item color deleted"
+#~ msgstr "Item color deleted"
+#~ msgid "Item color was not deleted"
+#~ msgstr "Item color was not deleted"
+#~ msgid "Invalid item group"
+#~ msgstr "Invalid item group"
+#~ msgid "The item group has been saved"
+#~ msgstr "The item group has been saved"
+#~ msgid "The item group could not be saved. Please, try again."
+#~ msgstr "The item group could not be saved. Please, try again."
+#~ msgid "Invalid id for item group"
+#~ msgstr "Invalid id for item group"
+#~ msgid "Item group deleted"
+#~ msgstr "Item group deleted"
+#~ msgid "Item group was not deleted"
+#~ msgstr "Item group was not deleted"
+#~ msgid "Invalid item image"
+#~ msgstr "Invalid item image"
+#~ msgid "The item image has been saved"
+#~ msgstr "The item image has been saved"
+#~ msgid "The item image could not be saved. Please, try again."
+#~ msgstr "The item image could not be saved. Please, try again."
+#~ msgid "Invalid id for item image"
+#~ msgstr "Invalid id for item image"
+#~ msgid "Item image deleted"
+#~ msgstr "Item image deleted"
+#~ msgid "Item image was not deleted"
+#~ msgstr "Item image was not deleted"
+#~ msgid "Invalid item size"
+#~ msgstr "Invalid item size"
+#~ msgid "The item size has been saved"
+#~ msgstr "The item size has been saved"
+#~ msgid "The item size could not be saved. Please, try again."
+#~ msgstr "The item size could not be saved. Please, try again."
+#~ msgid "Invalid id for item size"
+#~ msgstr "Invalid id for item size"
+#~ msgid "Item size deleted"
+#~ msgstr "Item size deleted"
+#~ msgid "Item size was not deleted"
+#~ msgstr "Item size was not deleted"
+#~ msgid "Invalid item type"
+#~ msgstr "Invalid item type"
+#~ msgid "The item type has been saved"
+#~ msgstr "The item type has been saved"
+#~ msgid "The item type could not be saved. Please, try again."
+#~ msgstr "The item type could not be saved. Please, try again."
+#~ msgid "Invalid id for item type"
+#~ msgstr "Invalid id for item type"
+#~ msgid "Item type deleted"
+#~ msgstr "Item type deleted"
+#~ msgid "Item type was not deleted"
+#~ msgstr "Item type was not deleted"
+#~ msgid "Invalid item"
+#~ msgstr "Invalid item"
+#~ msgid "The item has been saved"
+#~ msgstr "The item has been saved"
+#~ msgid "The item could not be saved. Please, try again."
+#~ msgstr "The item could not be saved. Please, try again."
+
+#, fuzzy
+#~ msgid "Item stock has been saved"
+#~ msgstr "The tag has been saved"
+
+#, fuzzy
+#~ msgid "Item stock could not be saved. Please, try again."
+#~ msgstr "The tag could not be saved. Please, try again."
+#~ msgid "Invalid id for item"
+#~ msgstr "Invalid id for item"
+#~ msgid "Item deleted"
+#~ msgstr "Item deleted"
+#~ msgid "Item was not deleted"
+#~ msgstr "Item was not deleted"
+
+#, fuzzy
+#~ msgid "The Polls has been saved."
+#~ msgstr "Album telah disimpan"
+
+#, fuzzy
+#~ msgid "The Polls can not be saved. Please, try again."
+#~ msgstr "The gallery could not be saved. Please, try again."
+
+#, fuzzy
+#~ msgid "Invalid id of poll"
+#~ msgstr "Invalid id for gallery"
+
+#, fuzzy
+#~ msgid "Poll Deletion completed!"
+#~ msgstr "The gallery has been saved"
+
+#, fuzzy
+#~ msgid "Poll was not deleted"
+#~ msgstr "Gallery was not deleted"
+
+#, fuzzy
+#~ msgid "Product has been added!"
+#~ msgstr "The gallery has been saved"
+
+#, fuzzy
+#~ msgid "Product has been changed!"
+#~ msgstr "The gallery has been saved"
+
+#, fuzzy
+#~ msgid "Product deleted!"
+#~ msgstr "Product Id"
+#~ msgid "The setting has been saved"
+#~ msgstr "The setting has been saved"
+#~ msgid "The setting could not be saved. Please, try again."
+#~ msgstr "The setting could not be saved. Please, try again."
+
+#, fuzzy
+#~ msgid "Add new store"
+#~ msgstr "Add New Store"
+
+#, fuzzy
+#~ msgid "Cannot find the Store data!"
+#~ msgstr "Data Produk tidak ditemukan!"
+
+#, fuzzy
+#~ msgid "Store Detail"
+#~ msgstr "Detil Item"
+
+#, fuzzy
+#~ msgid "Store has been changed!"
+#~ msgstr "The item has been saved"
+#~ msgid "Edit Store"
+#~ msgstr "Edit Store"
+
+#, fuzzy
+#~ msgid "Store deleted!"
+#~ msgstr "Item deleted"
+
+#, fuzzy
+#~ msgid "Store arranged!"
+#~ msgstr "Store Image"
+#~ msgid "Gee*eight Control Panel"
+#~ msgstr "Gee*eight Control Panel"
+#~ msgid "Admin Add Album"
+#~ msgstr "Admin Add Album"
+#~ msgid "List Albums"
+#~ msgstr "List Albums"
+#~ msgid "List Galleries"
+#~ msgstr "List Galleries"
+#~ msgid "New Gallery"
+#~ msgstr "New Gallery"
+#~ msgid "Admin Edit Album"
+#~ msgstr "Admin Edit Album"
+#~ msgid "Are you sure you want to delete this album?"
+#~ msgstr "Are you sure you want to delete this album?"
+#~ msgid "Albums"
+#~ msgstr "Albums"
+#~ msgid "View"
+#~ msgstr "View"
+#~ msgid "New Album"
+#~ msgstr "Album baru"
+#~ msgid "Album"
+#~ msgstr "Album"
+#~ msgid "Id"
+#~ msgstr "Id"
+#~ msgid "Album Name"
+#~ msgstr "Nama Album"
+#~ msgid "Edit Album"
+#~ msgstr "Ubah Album"
+#~ msgid "Delete Album"
+#~ msgstr "Hapus Album"
+#~ msgid "Are you sure you want to delete # %s?"
+#~ msgstr "Apakah Anda yakin untuk menghapus # %s?"
+#~ msgid "Related Galleries"
+#~ msgstr "Data lain terkait dengan Galeri"
+#~ msgid "Transaction Code"
+#~ msgstr "Transaction Code"
+#~ msgid "User Type"
+#~ msgstr "Tipe Pengguna"
+
+#, fuzzy
+#~ msgid "Cart Status"
+#~ msgstr "Status"
+#~ msgid "Invoice Number"
+#~ msgstr "Invoice Number"
+#~ msgid "Invoice Date"
+#~ msgstr "Invoice Date"
+#~ msgid "Delete Transaction"
+#~ msgstr "Delete Transaction"
+#~ msgid "Open Transactions"
+#~ msgstr "Open Transactions"
+#~ msgid "Confirmed Transactions"
+#~ msgstr "Confirmed Transactions"
+#~ msgid "Paid Transactions"
+#~ msgstr "Paid Transactions"
+#~ msgid "Shipped Transactions"
+#~ msgstr "Shipped Transactions"
+#~ msgid "Closed Transactions"
+#~ msgstr "Closed Transactions"
+
+#, fuzzy
+#~ msgid "Items for this transaction"
+#~ msgstr "Closed transactions"
+
+#, fuzzy
+#~ msgid "Item Price"
+#~ msgstr "Ukuran Item"
+#~ msgid "Set "
+#~ msgstr "Set "
+
+#, fuzzy
+#~ msgid "Are you sure you want to delete this transaction?"
+#~ msgstr "Are you sure you want to delete this store?"
+#~ msgid "Add New Category"
+#~ msgstr "Add New Category"
+#~ msgid "List Categories"
+#~ msgstr "List Categories"
+#~ msgid "List Item Types"
+#~ msgstr "List Item Types"
+#~ msgid "New Item Type"
+#~ msgstr "New Item Type"
+#~ msgid "Edit Category"
+#~ msgstr "Edit Category"
+#~ msgid "Are you sure you want to delete  this category?"
+#~ msgstr "Are you sure you want to delete  this category?"
+#~ msgid "Categories"
+#~ msgstr "Categories"
+#~ msgid "Are you sure you want to delete this category?"
+#~ msgstr "Are you sure you want to delete this category?"
+#~ msgid "New Category"
+#~ msgstr "New Category"
+#~ msgid "Category Detail"
+#~ msgstr "Category Detail"
+#~ msgid "Category Image"
+#~ msgstr "Category Image"
+#~ msgid "Last Modified On"
+#~ msgstr "Last Modified On"
+#~ msgid "Delete Category"
+#~ msgstr "Delete Category"
+#~ msgid "Related Item Types"
+#~ msgstr "Related Item Types"
+#~ msgid "Add Contact Us Subject"
+#~ msgstr "Add Contact Us Subject"
+#~ msgid "List Contact Subjects"
+#~ msgstr "Daftar Subyek Hubungi Kami"
+#~ msgid "List Contacts Us Message"
+#~ msgstr "Daftar Pesan Hubungi Kami"
+#~ msgid "Edit Contact Us Subject"
+#~ msgstr "Ubah Subyek Hubungi Kami"
+#~ msgid "Contact Us Subjects"
+#~ msgstr "Subyek Hubungi Kami"
+#~ msgid "New Contact Subject"
+#~ msgstr "Subyek baru Hubungi Kami"
+#~ msgid "Contact Us Subject"
+#~ msgstr "Subyek Hubungi Kami"
+#~ msgid "Subject English"
+#~ msgstr "Subyek bhs Inggris"
+#~ msgid "Edit Contact Subject"
+#~ msgstr "Ubah Subyek Hubungi Kami"
+#~ msgid "Delete Contact Subject"
+#~ msgstr "Hapus subjek"
+#~ msgid "Contacts"
+#~ msgstr "Pesan"
+#~ msgid "From IP Address"
+#~ msgstr "Dari IP Address"
+#~ msgid "Last Modified"
+#~ msgstr "Terakhir diedit"
+#~ msgid "Delete Contact Us Message"
+#~ msgstr "Hapus pesan hubungi kami"
+#~ msgid "List Events"
+#~ msgstr "List Events"
+#~ msgid "Are you sure you want to delete  this news & event?"
+#~ msgstr "Are you sure you want to delete  this news & event?"
+#~ msgid "Un-Publish"
+#~ msgstr "Un-Publish"
+#~ msgid "Publish"
+#~ msgstr "Publish"
+#~ msgid "Are you sure you want to delete this news & event?"
+#~ msgstr "Are you sure you want to delete this news & event?"
+#~ msgid "New Event"
+#~ msgstr "New Event"
+#~ msgid "Posted By"
+#~ msgstr "Posted By"
+#~ msgid "Title"
+#~ msgstr "Title"
+#~ msgid "Title in English"
+#~ msgstr "Title in English"
+
+#, fuzzy
+#~ msgid "Teaser"
+#~ msgstr "Tags"
+#~ msgid "Content"
+#~ msgstr "Content"
+#~ msgid "Content in English"
+#~ msgstr "Content in English"
+#~ msgid "Published?"
+#~ msgstr "Published?"
+#~ msgid "Event Date"
+#~ msgstr "Event Date"
+#~ msgid "Edit Event"
+#~ msgstr "Edit Event"
+#~ msgid "Delete Event"
+#~ msgstr "Delete Event"
+#~ msgid "Admin Add Gallery"
+#~ msgstr "Admin Add Gallery"
+#~ msgid "Admin Edit Gallery"
+#~ msgstr "Admin Edit Gallery"
+#~ msgid "Are you sure you want to delete this gallery?"
+#~ msgstr "Are you sure you want to delete this gallery?"
+#~ msgid "Galleries"
+#~ msgstr "Galleries"
+#~ msgid "Filesize"
+#~ msgstr "Filesize"
+#~ msgid "Realname"
+#~ msgstr "Realname"
+
+#, fuzzy
+#~ msgid "Edit Gallery"
+#~ msgstr "Admin Edit Gallery"
+#~ msgid "Delete Gallery"
+#~ msgstr "Delete Gallery"
+#~ msgid "Add Information"
+#~ msgstr "Add Information"
+#~ msgid "List Informations"
+#~ msgstr "List Informations"
+#~ msgid "Informations"
+#~ msgstr "Informations"
+#~ msgid "Title EN"
+#~ msgstr "Title EN"
+#~ msgid "Content EN"
+#~ msgstr "Content EN"
+#~ msgid "Add Item Brand"
+#~ msgstr "Add Item Brand"
+#~ msgid "List Item Brands"
+#~ msgstr "List Item Brands"
+#~ msgid "List Items"
+#~ msgstr "List Items"
+#~ msgid "New Item"
+#~ msgstr "New Item"
+#~ msgid "Edit Item Brand"
+#~ msgstr "Edit Item Brand"
+#~ msgid "Item Brands"
+#~ msgstr "Item Brands"
+#~ msgid "New Item Brand"
+#~ msgstr "New Item Brand"
+#~ msgid "Item Brand"
+#~ msgstr "Item Brand"
+#~ msgid "Brand Id"
+#~ msgstr "Brand Id"
+#~ msgid "Brand Logo"
+#~ msgstr "Brand Logo"
+#~ msgid "Active"
+#~ msgstr "Active"
+#~ msgid "Delete Item Brand"
+#~ msgstr "Delete Item Brand"
+#~ msgid "Related Items"
+#~ msgstr "Related Items"
+#~ msgid "Yes"
+#~ msgstr "Yes"
+#~ msgid "No"
+#~ msgstr "No"
+#~ msgid "Add Item Category"
+#~ msgstr "Add Item Category"
+#~ msgid "List Item Categories"
+#~ msgstr "List Item Categories"
+#~ msgid "Edit Item Category"
+#~ msgstr "Edit Item Category"
+#~ msgid "Item Categories"
+#~ msgstr "Item Categories"
+#~ msgid "New Item Category"
+#~ msgstr "New Item Category"
+#~ msgid "Item Category"
+#~ msgstr "Item Category"
+#~ msgid "Category Id"
+#~ msgstr "Category Id"
+#~ msgid "Category Name"
+#~ msgstr "Category Name"
+#~ msgid "Delete Item Category"
+#~ msgstr "Delete Item Category"
+#~ msgid "Add Item Color"
+#~ msgstr "Add Item Color"
+#~ msgid "List Item Colors"
+#~ msgstr "List Item Colors"
+#~ msgid "Edit Item Color"
+#~ msgstr "Edit Item Color"
+#~ msgid "Item Colors"
+#~ msgstr "Item Colors"
+#~ msgid "New Item Color"
+#~ msgstr "New Item Color"
+#~ msgid "Item Color"
+#~ msgstr "Item Color"
+#~ msgid "Color Id"
+#~ msgstr "Color Id"
+#~ msgid "Color Name"
+#~ msgstr "Color Name"
+#~ msgid "Hexa Decimal"
+#~ msgstr "Hexa Decimal"
+#~ msgid "Delete Item Color"
+#~ msgstr "Delete Item Color"
+#~ msgid "Add Item Group"
+#~ msgstr "Add Item Group"
+#~ msgid "List Item Groups"
+#~ msgstr "List Item Groups"
+#~ msgid "Edit Item Group"
+#~ msgstr "Edit Item Group"
+#~ msgid "Item Groups"
+#~ msgstr "Item Groups"
+#~ msgid "New Item Group"
+#~ msgstr "New Item Group"
+#~ msgid "Item Group"
+#~ msgstr "Item Group"
+#~ msgid "Group Id"
+#~ msgstr "Group Id"
+#~ msgid "Group Name"
+#~ msgstr "Group Name"
+#~ msgid "Delete Item Group"
+#~ msgstr "Delete Item Group"
+#~ msgid "Add Item Image"
+#~ msgstr "Add Item Image"
+#~ msgid "List Item Images"
+#~ msgstr "List Item Images"
+#~ msgid "Edit Item Image"
+#~ msgstr "Edit Item Image"
+#~ msgid "Item Images"
+#~ msgstr "Item Images"
+#~ msgid "New Item Image"
+#~ msgstr "New Item Image"
+#~ msgid "Item Image"
+#~ msgstr "Item Image"
+#~ msgid "Delete Item Image"
+#~ msgstr "Delete Item Image"
+#~ msgid "Add Item Size"
+#~ msgstr "Add Item Size"
+#~ msgid "List Item Sizes"
+#~ msgstr "List Item Sizes"
+#~ msgid "Edit Item Size"
+#~ msgstr "Edit Item Size"
+#~ msgid "Item Sizes"
+#~ msgstr "Item Sizes"
+#~ msgid "New Item Size"
+#~ msgstr "New Item Size"
+#~ msgid "Size Id"
+#~ msgstr "Size Id"
+#~ msgid "Delete Item Size"
+#~ msgstr "Delete Item Size"
+#~ msgid "Add Item Type"
+#~ msgstr "Add Item Type"
+#~ msgid "Edit Item Type"
+#~ msgstr "Edit Item Type"
+#~ msgid "Item Types"
+#~ msgstr "Item Types"
+#~ msgid "Item Type"
+#~ msgstr "Item Type"
+#~ msgid "Type Id"
+#~ msgstr "Type Id"
+#~ msgid "Category"
+#~ msgstr "Category"
+#~ msgid "Delete Item Type"
+#~ msgstr "Delete Item Type"
+#~ msgid "Add Item"
+#~ msgstr "Add Item"
+#~ msgid "List Tags"
+#~ msgstr "List Tags"
+#~ msgid "New Tag"
+#~ msgstr "New Tag"
+#~ msgid "Item Id"
+#~ msgstr "Item Id"
+
+#, fuzzy
+#~ msgid "Add Item Stock"
+#~ msgstr "Add Item Size"
+#~ msgid "Edit Item"
+#~ msgstr "Edit Item"
+#~ msgid "Items"
+#~ msgstr "Items"
+#~ msgid "Cost Price"
+#~ msgstr "Cost Price"
+#~ msgid "Pricing Method"
+#~ msgstr "Pricing Method"
+#~ msgid "Margin"
+#~ msgstr "Margin"
+#~ msgid "Margin Pct"
+#~ msgstr "Margin Pct"
+
+#, fuzzy
+#~ msgid "Discount Pct"
+#~ msgstr "Diskon"
+
+#, fuzzy
+#~ msgid "Add Stock"
+#~ msgstr "Add New Store"
+#~ msgid "Last View Time"
+#~ msgstr "Last View Time"
+#~ msgid "Tag"
+#~ msgstr "Tag"
+#~ msgid "Delete Item"
+#~ msgstr "Delete Item"
+#~ msgid "Related Item Images"
+#~ msgstr "Related Item Images"
+#~ msgid "CakePHP: the rapid development php framework"
+#~ msgstr "CakePHP: the rapid development php framework"
+#~ msgid "Newsletters"
+#~ msgstr "Newsletters"
+#~ msgid "Are you sure you want to delete this subscriber"
+#~ msgstr "Are you sure you want to delete this subscriber"
+#~ msgid "List Users"
+#~ msgstr "List Users"
+
+#, fuzzy
+#~ msgid "Add Product"
+#~ msgstr "Edit Product"
+#~ msgid "List Products"
+#~ msgstr "List Products"
+#~ msgid "Edit Product"
+#~ msgstr "Edit Product"
+#~ msgid "Products"
+#~ msgstr "Products"
+#~ msgid "New Product"
+#~ msgstr "New Product"
+
+#, fuzzy
+#~ msgid "Product"
+#~ msgstr "Products"
+#~ msgid "Sku"
+#~ msgstr "Sku"
+#~ msgid "Main Image"
+#~ msgstr "Main Image"
+#~ msgid "Delete Product"
+#~ msgstr "Delete Product"
+#~ msgid "Related Product Images"
+#~ msgstr "Related Product Images"
+#~ msgid "Product Id"
+#~ msgstr "Product Id"
+#~ msgid "Image Filename"
+#~ msgstr "Image Filename"
+#~ msgid "New Product Image"
+#~ msgstr "New Product Image"
+#~ msgid "Edit Setting"
+#~ msgstr "Edit Setting"
+#~ msgid "Add New Store"
+#~ msgstr "Add New Store"
+#~ msgid "List Stores"
+#~ msgstr "List Stores"
+#~ msgid "Are you sure you want to delete  this store?"
+#~ msgstr "Are you sure you want to delete  this store?"
+#~ msgid "Stores"
+#~ msgstr "Stores"
+#~ msgid "Up"
+#~ msgstr "Up"
+#~ msgid "Down"
+#~ msgstr "Down"
+#~ msgid "New Store"
+#~ msgstr "New Store"
+#~ msgid "Store Name"
+#~ msgstr "Store Name"
+#~ msgid "Store Image"
+#~ msgstr "Store Image"
+#~ msgid "Store Address"
+#~ msgstr "Store Address"
+#~ msgid "Google Map"
+#~ msgstr "Google Map"
+#~ msgid "Phone"
+#~ msgstr "Phone"
+#~ msgid "Delete Store"
+#~ msgstr "Delete Store"
+#~ msgid "Add Tag"
+#~ msgstr "Add Tag"
+#~ msgid "Edit Tag"
+#~ msgstr "Edit Tag"
+#~ msgid "Delete Tag"
+#~ msgstr "Delete Tag"
+
+#, fuzzy
+#~ msgid "Setting"
+#~ msgstr "Edit Setting"
+
+#, fuzzy
+#~ msgid "List Polls"
+#~ msgstr "Edit Gallery"
+
+#, fuzzy
+#~ msgid "Published Polls"
+#~ msgstr "Published?"
+
+#, fuzzy
+#~ msgid "Not Published Polls"
+#~ msgstr "Published?"
+#~ msgid "List Transactions"
+#~ msgstr "List Transactions"
+#~ msgid "List Newsletters"
+#~ msgstr "Daftar Newsletter"
+
+#, fuzzy
+#~ msgid "Transactions Summary"
+#~ msgstr "List transactions summary"
+#~ msgid "Open transactions"
+#~ msgstr "Open transactions"
+#~ msgid "Last modified on"
+#~ msgstr "Last modified on"
+
+#, fuzzy
+#~ msgid "No open transaction."
+#~ msgstr "Open transactions"
+#~ msgid "Confirmed transactions"
+#~ msgstr "Confirmed transactions"
+
+#, fuzzy
+#~ msgid "No Confirmed transaction."
+#~ msgstr "Confirmed transactions"
+#~ msgid "Paid transactions"
+#~ msgstr "Paid transactions"
+
+#, fuzzy
+#~ msgid "No paid transaction."
+#~ msgstr "Paid transactions"
+#~ msgid "Shipped transactions"
+#~ msgstr "Shipped transactions"
+#~ msgid "Closed transactions"
+#~ msgstr "Closed transactions"
+#~ msgid "Today"
+#~ msgstr "Today"
+#~ msgid "This Month"
+#~ msgstr "This Month"
+#~ msgid " User"
+#~ msgid_plural " Users"
+#~ msgstr[0] "Pengguna"
+#~ msgstr[1] "Pengguna"
+#~ msgid " Message"
+#~ msgid_plural " Messages"
+#~ msgstr[0] "Pesan"
+#~ msgstr[1] "Pesan"
+#~ msgid "Edit User"
+#~ msgstr "Edit User"
+#~ msgid "Are you sure you want to delete  this user?"
+#~ msgstr "Anda yakin untuk menghapus pengguna ini?"
+#~ msgid "Are you sure want to delete this user?"
+#~ msgstr "Anda yakin untuk menghapus pengguna ini?"
+#~ msgid "User Detail"
+#~ msgstr "Data Lengkap"
+#~ msgid "Delete User"
+#~ msgstr "Hapus pengguna"
+#~ msgid "You must specify a source image in your preferences."
+#~ msgstr "You must specify a source image in your preferences."
+#~ msgid ""
+#~ "Your server must support the GD image library in order to determine the "
+#~ "image properties."
+#~ msgstr ""
+#~ "Your server must support the GD image library in order to determine the "
+#~ "image properties."
+#~ msgid "An angle of rotation is required to rotate the image."
+#~ msgstr "An angle of rotation is required to rotate the image."
+#~ msgid ""
+#~ "The path to your image library is not correct.  Please set the correct "
+#~ "path in your image preferences."
+#~ msgstr ""
+#~ "The path to your image library is not correct.  Please set the correct "
+#~ "path in your image preferences."
+#~ msgid ""
+#~ "Image processing failed.  Please verify that your server supports the "
+#~ "chosen protocol and that the path to your image library is correct."
+#~ msgstr ""
+#~ "Image processing failed.  Please verify that your server supports the "
+#~ "chosen protocol and that the path to your image library is correct."
+#~ msgid "Image rotation does not appear to be supported by your server."
+#~ msgstr "Image rotation does not appear to be supported by your server."
+#~ msgid "The GD image library is required for this feature."
+#~ msgstr "The GD image library is required for this feature."
+#~ msgid "Unable to find a font to use."
+#~ msgstr "Unable to find a font to use."
+#~ msgid ""
+#~ "Your server does not support the GD function required to process this "
+#~ "type of image."
+#~ msgstr ""
+#~ "Your server does not support the GD function required to process this "
+#~ "type of image."
+#~ msgid ""
+#~ "GIF images are often not supported due to licensing restrictions.  You "
+#~ "may have to use JPG or PNG images instead."
+#~ msgstr ""
+#~ "GIF images are often not supported due to licensing restrictions.  You "
+#~ "may have to use JPG or PNG images instead."
+#~ msgid "JPG images are not supported."
+#~ msgstr "JPG images are not supported."
+#~ msgid "PNG images are not supported."
+#~ msgstr "PNG images are not supported."
+#~ msgid ""
+#~ "Unable to save the image.  Please make sure the image and file directory "
+#~ "are writable."
+#~ msgstr ""
+#~ "Unable to save the image.  Please make sure the image and file directory "
+#~ "are writable."
+#~ msgid "The path to the image is not correct."
+#~ msgstr "The path to the image is not correct."
+#~ msgid "Invalid website image"
+#~ msgstr "Invalid website image"
+#~ msgid "The website image has been saved"
+#~ msgstr "The website image has been saved"
+#~ msgid "The website image could not be saved. Please, try again."
+#~ msgstr "The website image could not be saved. Please, try again."
+#~ msgid "Invalid id for website image"
+#~ msgstr "Invalid id for website image"
+#~ msgid "Website image deleted"
+#~ msgstr "Website image deleted"
+#~ msgid "Website image was not deleted"
+#~ msgstr "Website image was not deleted"
+#~ msgid "Cart"
+#~ msgstr "Cart"
+#~ msgid "Trans Code"
+#~ msgstr "Trans Code"
+#~ msgid "Related Cart Items"
+#~ msgstr "Related Cart Items"
+#~ msgid "Is Upcome"
+#~ msgstr "Is Upcome"
+#~ msgid "List Contact Us Messages"
+#~ msgstr "List Contact Us Messages"
+#~ msgid "New user registration"
+#~ msgstr "New user registration"
+#~ msgid "New message from contact us"
+#~ msgstr "New message from contact us"
+#~ msgid "Admin Add Website Image"
+#~ msgstr "Admin Add Website Image"
+#~ msgid "List Website Images"
+#~ msgstr "List Website Images"
+#~ msgid "Admin Edit Website Image"
+#~ msgstr "Admin Edit Website Image"
+#~ msgid "Website Images"
+#~ msgstr "Website Images"
+#~ msgid "New Website Image"
+#~ msgstr "New Website Image"
+#~ msgid "Website Image"
+#~ msgstr "Website Image"
+#~ msgid "Image For"
+#~ msgstr "Image For"
+#~ msgid "Thumbsize"
+#~ msgstr "Thumbsize"
+#~ msgid "Image File"
+#~ msgstr "Image File"
+#~ msgid "Dir"
+#~ msgstr "Dir"
+#~ msgid "Mimetype"
+#~ msgstr "Mimetype"
+#~ msgid "Edit Website Image"
+#~ msgstr "Edit Website Image"
+#~ msgid "Delete Website Image"
+#~ msgstr "Delete Website Image"

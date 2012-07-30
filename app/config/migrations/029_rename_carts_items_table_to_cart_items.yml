@@ -1,0 +1,10 @@
+---
+DOWN:
+    rename_table:
+        cart_items:
+            name: carts_items  
+UP:
+    rename_table:
+        carts_items:
+            name: cart_items
+  

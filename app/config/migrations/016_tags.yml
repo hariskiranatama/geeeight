@@ -1,0 +1,12 @@
+---
+DOWN: 
+  drop_table: 
+    - tags
+UP: 
+  create_table: 
+    tags:
+      name: 
+        type: string
+        default: false
+        length: 255
+        - not_null

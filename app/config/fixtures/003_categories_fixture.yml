@@ -1,0 +1,16 @@
+categories:
+    1:
+        name: 'Dresses'
+        parent_id: 0
+    2:
+        name: 'Tops'
+        parent_id: 0
+    3:
+        name: 'Jackets'
+        parent_id: 0
+    4:
+        name: 'Bottoms'
+        parent_id: 0
+    5:
+        name: 'Bags & Accessories'
+        parent_id: 0

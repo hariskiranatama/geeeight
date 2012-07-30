@@ -1,0 +1,10 @@
+tags:
+    1:
+        name: 'New Arrival'
+        parent_id: 0
+    2:
+        name: 'Sale & Specials'
+        parent_id: 0
+    3:
+        name: 'Upcoming'
+        parent_id: 0

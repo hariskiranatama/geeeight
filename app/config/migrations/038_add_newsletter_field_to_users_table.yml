@@ -1,0 +1,11 @@
+---
+UP:
+  add_fields:
+    users:
+      newsletter:
+        type: int
+        length: 1
+DOWN:
+  drop_fields:
+    users:
+      newsletter: newsletter

@@ -1,0 +1,27 @@
+---
+UP:
+  add_fields:
+    website_images:
+      is_active:
+        type: int
+        length: 1
+      title:
+        type: string
+        length: 25
+      caption:
+        type: string
+        length: 255
+      is_new:
+        type: int
+        length: 1
+      link_url:
+        type: string
+        length: 255
+DOWN:
+  drop_fields:
+    website_images:
+      - is_active
+      - title
+      - caption
+      - is_new
+      - link_url

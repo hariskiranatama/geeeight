@@ -1,0 +1,23 @@
+---
+UP:
+  drop_fields:
+    carts:
+      - discount_pct
+  add_fields:
+    carts:
+      discount_pct:
+        type: float
+        default: 0.0
+        length: 5,2
+        - not_null
+DOWN:
+  drop_fields:
+    carts:
+      - discount_pct
+  add_fields:
+    carts:
+      discount_pct:
+        type: integer
+        default: 0
+        length: 5
+        - not_null

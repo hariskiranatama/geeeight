@@ -1,0 +1,15 @@
+---
+UP:
+  add_fields:
+    info_pages:
+      title_en:
+        type: string
+        length: 255
+      content_en:
+        type: text
+        length:
+DOWN:
+  drop_fields:
+    info_pages:
+      title_en: title_en
+      content_en: content_en

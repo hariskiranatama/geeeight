@@ -1,0 +1,12 @@
+---
+UP:
+  add_fields:
+    item_images:
+      is_material:
+        type: int
+        length: 1
+        default: 0
+DOWN:
+  drop_fields:
+    item_images:
+      - is_material

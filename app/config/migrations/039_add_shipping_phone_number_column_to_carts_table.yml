@@ -1,0 +1,11 @@
+---
+UP:
+  add_fields:
+    carts:
+      shipping_phone_number:
+        type: string
+        length: 16
+DOWN:
+  drop_fields:
+    carts:
+      - shipping_phone_number

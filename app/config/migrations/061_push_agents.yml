@@ -1,0 +1,15 @@
+---
+DOWN: 
+  drop_table: 
+    - push_agents
+UP: 
+  create_table: 
+    push_agents:
+      name:
+        type: string
+        length: 255
+        - not_null
+      auth_key:
+        type: string
+        length: 40
+        - not_null

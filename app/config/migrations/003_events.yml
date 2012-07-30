@@ -1,0 +1,34 @@
+---
+DOWN: 
+  drop_table: 
+    - events
+UP: 
+  create_table: 
+    events: 
+      user_id: 
+        type: integer
+        default: false
+        length: 11
+        index: true
+        - not_null
+      type: 
+        type: string
+        default: 'event'
+        length: 5
+        index: true
+        - not_null
+      title: 
+        type: string
+        default: false
+        length: 255
+        - not_null
+      content: 
+        type: text
+        default: false
+        length: 
+        - is_null
+      date: 
+        type: date
+        default: false
+        length: 
+        - is_null

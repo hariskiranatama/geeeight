@@ -1,0 +1,11 @@
+---
+UP:
+  add_fields:
+    events:
+      read_count:
+        type: int
+        length: 111
+DOWN:
+  drop_fields:
+    events:
+      read_count: read_count

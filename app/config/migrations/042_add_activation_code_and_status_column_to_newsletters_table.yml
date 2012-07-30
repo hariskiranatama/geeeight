@@ -1,0 +1,15 @@
+---
+UP:
+  add_fields:
+    newsletters:
+      activation_code:
+        type: string
+        length: 40
+      status:
+        type: string
+        length: 10
+DOWN:
+  drop_fields:
+    newsletters:
+      activation_code: activation_code
+      status: status

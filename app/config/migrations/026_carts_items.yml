@@ -1,0 +1,22 @@
+---
+DOWN: 
+  drop_table: 
+    - carts_items
+UP: 
+  create_table: 
+    carts_items:
+      product_id:
+        type: integer
+        default: false
+        length: 11
+        - not_null
+      qty:
+        type: integer
+        default: false
+        length: 11
+        - not_null
+      cart_id:
+        type: integer
+        default: false
+        length: 11
+        - not_null

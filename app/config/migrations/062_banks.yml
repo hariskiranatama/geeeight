@@ -1,0 +1,23 @@
+---
+DOWN: 
+  drop_table: 
+    - banks
+UP: 
+  create_table: 
+    banks:
+      bankaccount_no:
+        type: string
+        length: 30
+        - not_null
+      bank_name:
+        type: string
+        length: 50
+        - not_null
+      account_name:
+        type: string
+        length: 50
+        - not_null
+      is_active:
+        type: int
+        length: 1
+        - not_null

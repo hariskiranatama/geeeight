@@ -1,0 +1,3126 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gee*Eight Version 1.0\n"
+"POT-Creation-Date: 2011-01-27 17:00+0700\n"
+"PO-Revision-Date: 2011-01-27 17:14+0700\n"
+"Last-Translator: Teguh Pratama <teguh.p@kiranatama.com>\n"
+"Language-Team: WGS <info@wgs.co.id>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: /controllers/albums_controller.php:21;55
+#: /controllers/galleries_controller.php:16
+msgid "Invalid album"
+msgstr ""
+
+#: /controllers/albums_controller.php:38
+msgid "Album Detail"
+msgstr ""
+
+#: /controllers/albums_controller.php:45;60
+msgid "The album has been saved"
+msgstr ""
+
+#: /controllers/albums_controller.php:48;63
+msgid "The album could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/albums_controller.php:73
+msgid "Invalid id for album"
+msgstr ""
+
+#: /controllers/albums_controller.php:77
+msgid "Album deleted"
+msgstr ""
+
+#: /controllers/albums_controller.php:80
+msgid "Album was not deleted"
+msgstr ""
+
+#: /controllers/carts_controller.php:163
+#: /views/carts/admin_index.ctp:2
+msgid " Transactions"
+msgstr ""
+
+#: /controllers/carts_controller.php:170;204;223
+msgid "Cannot find the Cart data!"
+msgstr ""
+
+#: /controllers/carts_controller.php:184
+#: /views/carts/admin_change_discount.ctp:2
+#: /views/carts/admin_view.ctp:2
+msgid "Transaction Detail"
+msgstr ""
+
+#: /controllers/carts_controller.php:189
+msgid "Invalid id for cart"
+msgstr ""
+
+#: /controllers/carts_controller.php:193
+#: /controllers/items_controller.php:144
+#: /controllers/newsletters_controller.php:30
+#: /controllers/users_controller.php:391
+msgid "Deletion completed!"
+msgstr ""
+
+#: /controllers/carts_controller.php:196
+msgid "Cart was not deleted"
+msgstr ""
+
+#: /controllers/carts_controller.php:209
+msgid "Discount has been saved"
+msgstr ""
+
+#: /controllers/carts_controller.php:212
+msgid "Discount could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/carts_controller.php:241
+#: /views/carts/admin_change_discount.ctp:46
+#: /views/carts/admin_view.ctp:34
+msgid "Change Discount"
+msgstr ""
+
+#: /controllers/carts_controller.php:299;346
+msgid "Invalid cart"
+msgstr ""
+
+#: /controllers/carts_controller.php:316
+msgid "The sales order could not be created. Please, try again."
+msgstr ""
+
+#: /controllers/carts_controller.php:361
+msgid "The shipment could not be created. Please, try again."
+msgstr ""
+
+#: /controllers/categories_controller.php:179;216
+msgid "Invalid category"
+msgstr ""
+
+#: /controllers/categories_controller.php:200
+msgid "Cannot add again category, the category limit is five"
+msgstr ""
+
+#: /controllers/categories_controller.php:206;221
+msgid "The category has been saved"
+msgstr ""
+
+#: /controllers/categories_controller.php:209;224
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/categories_controller.php:235
+msgid "Invalid id for category"
+msgstr ""
+
+#: /controllers/categories_controller.php:239
+msgid "Category deleted"
+msgstr ""
+
+#: /controllers/categories_controller.php:242
+msgid "Category was not deleted"
+msgstr ""
+
+#: /controllers/contact_subjects_controller.php:26
+msgid "New Contact Us Subject Saved!"
+msgstr ""
+
+#: /controllers/contact_subjects_controller.php:31
+msgid "Create new Contact Us Subject"
+msgstr ""
+
+#: /controllers/contact_subjects_controller.php:42;61;71
+msgid "Cannot find the Contact Us Subject data!"
+msgstr ""
+
+#: /controllers/contact_subjects_controller.php:50
+msgid "Contact Us Subject Edited!"
+msgstr ""
+
+#: /controllers/contact_subjects_controller.php:55
+msgid "Edit News &amp; ContactSubject"
+msgstr ""
+
+#: /controllers/contact_subjects_controller.php:65
+msgid "Contact Us Subject Detail"
+msgstr ""
+
+#: /controllers/contact_subjects_controller.php:77
+msgid "News &amp; ContactSubject have been deleted!"
+msgstr ""
+
+#: /controllers/contacts_controller.php:54
+msgid "Cannot find the Message data!"
+msgstr ""
+
+#: /controllers/contacts_controller.php:58
+#: /views/contacts/admin_view.ctp:3
+msgid "Contact Us Message Detail"
+msgstr ""
+
+#: /controllers/contacts_controller.php:64
+msgid "Cannot find the Contact Us Message data!"
+msgstr ""
+
+#: /controllers/contacts_controller.php:70
+msgid "Contact Us message have been deleted!"
+msgstr ""
+
+#: /controllers/events_controller.php:63
+msgid "New News &amp; Events Saved!"
+msgstr ""
+
+#: /controllers/events_controller.php:68
+msgid "Create new news &amp; event"
+msgstr ""
+
+#: /controllers/events_controller.php:79;102;112;126
+msgid "Cannot find the News &amp; Events data!"
+msgstr ""
+
+#: /controllers/events_controller.php:91
+msgid "News &amp; Events Edited!"
+msgstr ""
+
+#: /controllers/events_controller.php:96
+#: /views/events/admin_edit.ctp:4
+msgid "Edit News &amp; Event"
+msgstr ""
+
+#: /controllers/events_controller.php:106
+#: /views/events/admin_view.ctp:2
+msgid "News &amp; Events Detail"
+msgstr ""
+
+#: /controllers/events_controller.php:118
+msgid "News &amp; Event have been deleted!"
+msgstr ""
+
+#: /controllers/galleries_controller.php:8;41
+msgid "Invalid gallery"
+msgstr ""
+
+#: /controllers/galleries_controller.php:23;47
+msgid "The gallery has been saved"
+msgstr ""
+
+#: /controllers/galleries_controller.php:27;50
+msgid "The gallery could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/galleries_controller.php:63
+msgid "Invalid id for gallery"
+msgstr ""
+
+#: /controllers/galleries_controller.php:67
+msgid "Gallery deleted"
+msgstr ""
+
+#: /controllers/galleries_controller.php:70
+msgid "Gallery was not deleted"
+msgstr ""
+
+#: /controllers/info_pages_controller.php:42
+msgid "Information have been updated."
+msgstr ""
+
+#: /controllers/info_pages_controller.php:51
+msgid "Cannot find the Informations data!"
+msgstr ""
+
+#: /controllers/info_pages_controller.php:55
+#: /views/info_pages/admin_view.ctp:2
+msgid "Information Detail"
+msgstr ""
+
+#: /controllers/item_brands_controller.php:13;44
+msgid "Invalid item brand"
+msgstr ""
+
+#: /controllers/item_brands_controller.php:34;49
+msgid "The item brand has been saved"
+msgstr ""
+
+#: /controllers/item_brands_controller.php:37;52
+msgid "The item brand could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_brands_controller.php:63
+msgid "Invalid id for item brand"
+msgstr ""
+
+#: /controllers/item_brands_controller.php:67
+msgid "Item brand deleted"
+msgstr ""
+
+#: /controllers/item_brands_controller.php:70
+msgid "Item brand was not deleted"
+msgstr ""
+
+#: /controllers/item_categories_controller.php:13;44
+msgid "Invalid item category"
+msgstr ""
+
+#: /controllers/item_categories_controller.php:34;49
+msgid "The item category has been saved"
+msgstr ""
+
+#: /controllers/item_categories_controller.php:37;52
+msgid "The item category could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_categories_controller.php:63
+msgid "Invalid id for item category"
+msgstr ""
+
+#: /controllers/item_categories_controller.php:67
+msgid "Item category deleted"
+msgstr ""
+
+#: /controllers/item_categories_controller.php:70
+msgid "Item category was not deleted"
+msgstr ""
+
+#: /controllers/item_colors_controller.php:13;44
+msgid "Invalid item color"
+msgstr ""
+
+#: /controllers/item_colors_controller.php:34;49
+msgid "The item color has been saved"
+msgstr ""
+
+#: /controllers/item_colors_controller.php:37;52
+msgid "The item color could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_colors_controller.php:63
+msgid "Invalid id for item color"
+msgstr ""
+
+#: /controllers/item_colors_controller.php:67
+msgid "Item color deleted"
+msgstr ""
+
+#: /controllers/item_colors_controller.php:70
+msgid "Item color was not deleted"
+msgstr ""
+
+#: /controllers/item_groups_controller.php:13;44
+msgid "Invalid item group"
+msgstr ""
+
+#: /controllers/item_groups_controller.php:34;49
+msgid "The item group has been saved"
+msgstr ""
+
+#: /controllers/item_groups_controller.php:37;52
+msgid "The item group could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_groups_controller.php:63
+msgid "Invalid id for item group"
+msgstr ""
+
+#: /controllers/item_groups_controller.php:67
+msgid "Item group deleted"
+msgstr ""
+
+#: /controllers/item_groups_controller.php:70
+msgid "Item group was not deleted"
+msgstr ""
+
+#: /controllers/item_images_controller.php:8;16;64
+msgid "Invalid item image"
+msgstr ""
+
+#: /controllers/item_images_controller.php:35
+msgid "The item images limit is three"
+msgstr ""
+
+#: /controllers/item_images_controller.php:40
+msgid "The item images as material limit is six"
+msgstr ""
+
+#: /controllers/item_images_controller.php:49;70
+msgid "The item image has been saved"
+msgstr ""
+
+#: /controllers/item_images_controller.php:52
+msgid "The item material image could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_images_controller.php:73
+msgid "The item image could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_images_controller.php:86
+msgid "Invalid id for item image"
+msgstr ""
+
+#: /controllers/item_images_controller.php:90
+msgid "Item image deleted"
+msgstr ""
+
+#: /controllers/item_images_controller.php:93
+msgid "Item image was not deleted"
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:8;51
+msgid "Invalid item recomend"
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:16
+#: /controllers/items_controller.php:21;76;108
+msgid "Invalid item"
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:26
+msgid "The item recomends limit is three"
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:33;57
+msgid "The item recomend has been saved"
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:37;60
+msgid "The item recomend could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:73
+msgid "Invalid id for item recomend"
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:77
+msgid "Item recomend deleted"
+msgstr ""
+
+#: /controllers/item_recomends_controller.php:80
+msgid "Item recomend was not deleted"
+msgstr ""
+
+#: /controllers/item_sizes_controller.php:13;44
+msgid "Invalid item size"
+msgstr ""
+
+#: /controllers/item_sizes_controller.php:34;49
+msgid "The item size has been saved"
+msgstr ""
+
+#: /controllers/item_sizes_controller.php:37;52
+msgid "The item size could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_sizes_controller.php:63
+msgid "Invalid id for item size"
+msgstr ""
+
+#: /controllers/item_sizes_controller.php:67
+msgid "Item size deleted"
+msgstr ""
+
+#: /controllers/item_sizes_controller.php:70
+msgid "Item size was not deleted"
+msgstr ""
+
+#: /controllers/item_types_controller.php:21;54
+msgid "Invalid item type"
+msgstr ""
+
+#: /controllers/item_types_controller.php:42;59
+msgid "The item type has been saved"
+msgstr ""
+
+#: /controllers/item_types_controller.php:45;62
+msgid "The item type could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/item_types_controller.php:75
+msgid "Invalid id for item type"
+msgstr ""
+
+#: /controllers/item_types_controller.php:79
+msgid "Item type deleted"
+msgstr ""
+
+#: /controllers/item_types_controller.php:82
+msgid "Item type was not deleted"
+msgstr ""
+
+#: /controllers/items_controller.php:53;81
+msgid "The item has been saved"
+msgstr ""
+
+#: /controllers/items_controller.php:56;84
+msgid "The item could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/items_controller.php:113
+msgid "Item stock has been saved"
+msgstr ""
+
+#: /controllers/items_controller.php:116
+msgid "Item stock could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/items_controller.php:128
+msgid "Invalid id for item"
+msgstr ""
+
+#: /controllers/items_controller.php:132
+msgid "Item deleted"
+msgstr ""
+
+#: /controllers/items_controller.php:135
+msgid "Item was not deleted"
+msgstr ""
+
+#: /controllers/polls_controller.php:70
+msgid "The Polls has been saved."
+msgstr ""
+
+#: /controllers/polls_controller.php:73
+msgid "The Polls can not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/polls_controller.php:83
+msgid "Invalid Poll ID, or Poll does not exist."
+msgstr ""
+
+#: /controllers/polls_controller.php:102
+msgid "Poll have been updated."
+msgstr ""
+
+#: /controllers/polls_controller.php:112
+msgid "Invalid id of poll."
+msgstr ""
+
+#: /controllers/polls_controller.php:116
+msgid "Poll Deletion completed!"
+msgstr ""
+
+#: /controllers/polls_controller.php:119
+msgid "Poll was not deleted."
+msgstr ""
+
+#: /controllers/products_controller.php:34
+msgid "Product has been added!"
+msgstr ""
+
+#: /controllers/products_controller.php:44;58
+msgid "Cannot find the Product data!"
+msgstr ""
+
+#: /controllers/products_controller.php:66
+msgid "Product has been changed!"
+msgstr ""
+
+#: /controllers/products_controller.php:76
+msgid "Product deleted!"
+msgstr ""
+
+#: /controllers/push_agents_controller.php:13;33
+msgid "Invalid push agent"
+msgstr ""
+
+#: /controllers/push_agents_controller.php:23;38
+msgid "The push agent has been saved"
+msgstr ""
+
+#: /controllers/push_agents_controller.php:26;41
+msgid "The push agent could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/push_agents_controller.php:51
+msgid "Invalid id for push agent"
+msgstr ""
+
+#: /controllers/push_agents_controller.php:55
+msgid "Push agent deleted"
+msgstr ""
+
+#: /controllers/push_agents_controller.php:58
+msgid "Push agent was not deleted"
+msgstr ""
+
+#: /controllers/settings_controller.php:9
+msgid "The setting has been saved"
+msgstr ""
+
+#: /controllers/settings_controller.php:12
+msgid "The setting could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/stores_controller.php:36
+msgid "Store has been added!"
+msgstr ""
+
+#: /controllers/stores_controller.php:40
+msgid "Add new store"
+msgstr ""
+
+#: /controllers/stores_controller.php:47;63
+msgid "Cannot find the Store data!"
+msgstr ""
+
+#: /controllers/stores_controller.php:51
+#: /views/stores/admin_view.ctp:2
+msgid "Store Detail"
+msgstr ""
+
+#: /controllers/stores_controller.php:72
+msgid "Store has been changed!"
+msgstr ""
+
+#: /controllers/stores_controller.php:77
+#: /views/stores/admin_edit.ctp:4
+#: /views/stores/admin_view.ctp:68
+msgid "Edit Store"
+msgstr ""
+
+#: /controllers/stores_controller.php:83
+msgid "Store deleted!"
+msgstr ""
+
+#: /controllers/stores_controller.php:90;97
+msgid "Store arranged!"
+msgstr ""
+
+#: /controllers/tags_controller.php:97;129
+msgid "Invalid tag"
+msgstr ""
+
+#: /controllers/tags_controller.php:119;134
+msgid "The tag has been saved"
+msgstr ""
+
+#: /controllers/tags_controller.php:122;137
+msgid "The tag could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/tags_controller.php:148
+msgid "Invalid id for tag"
+msgstr ""
+
+#: /controllers/tags_controller.php:152
+msgid "Tag deleted"
+msgstr ""
+
+#: /controllers/tags_controller.php:155
+msgid "Tag was not deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:259
+msgid "Sign In"
+msgstr ""
+
+#: /controllers/users_controller.php:263
+#: /views/layouts/admin.ctp:20
+msgid "Gee*eight Control Panel"
+msgstr ""
+
+#: /controllers/users_controller.php:337
+msgid "User have been modified"
+msgstr ""
+
+#: /controllers/users_controller.php:353
+msgid "You can not banned yourself!"
+msgstr ""
+
+#: /controllers/users_controller.php:360
+msgid "Can not removed"
+msgstr ""
+
+#: /controllers/users_controller.php:362
+msgid "User with id :%d have been removed"
+msgstr ""
+
+#: /controllers/users_controller.php:366
+msgid "You can not removed yourself!"
+msgstr ""
+
+#: /controllers/users_controller.php:376
+msgid "Activation completed!"
+msgstr ""
+
+#: /controllers/users_controller.php:384
+msgid "Ban completed!"
+msgstr ""
+
+#: /controllers/website_images_controller.php:27
+#: /views/settings/admin_index.ctp:29
+#: /views/website_images/admin_add.ctp:22
+#: /views/website_images/admin_edit.ctp:25
+#: /views/website_images/admin_index.ctp:64
+#: /views/website_images/admin_view.ctp:51
+msgid "Images for Horizontal Layout"
+msgstr ""
+
+#: /controllers/website_images_controller.php:38
+#: /views/settings/admin_index.ctp:30
+#: /views/website_images/admin_add.ctp:23
+#: /views/website_images/admin_edit.ctp:26
+#: /views/website_images/admin_index.ctp:65
+#: /views/website_images/admin_view.ctp:52
+msgid "Images for Vertical Layout"
+msgstr ""
+
+#: /controllers/website_images_controller.php:49
+#: /views/settings/admin_index.ctp:31
+#: /views/website_images/admin_add.ctp:24
+#: /views/website_images/admin_edit.ctp:27
+#: /views/website_images/admin_index.ctp:66
+#: /views/website_images/admin_view.ctp:53
+msgid "Images for Mixed Layout"
+msgstr ""
+
+#: /controllers/website_images_controller.php:71;78
+msgid "Image arranged!"
+msgstr ""
+
+#: /controllers/website_images_controller.php:85;90
+msgid "Invalid image"
+msgstr ""
+
+#: /controllers/website_images_controller.php:113;143
+msgid "The image has been saved"
+msgstr ""
+
+#: /controllers/website_images_controller.php:116;146
+msgid "The image could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/website_images_controller.php:138
+msgid "Invalid website image"
+msgstr ""
+
+#: /controllers/website_images_controller.php:171
+msgid "Invalid id for image"
+msgstr ""
+
+#: /controllers/website_images_controller.php:175
+msgid "Image deleted"
+msgstr ""
+
+#: /controllers/website_images_controller.php:178
+msgid "Image was not deleted"
+msgstr ""
+
+#: /views/albums/admin_add.ctp:4
+msgid "Admin Add Album"
+msgstr ""
+
+#: /views/albums/admin_add.ctp:8
+#: /views/albums/admin_edit.ctp:9
+#: /views/carts/admin_change_discount.ctp:53
+#: /views/carts/admin_sales_order.ctp:107
+#: /views/carts/admin_shipped.ctp:134
+#: /views/categories/admin_add.ctp:8
+#: /views/categories/admin_edit.ctp:10
+#: /views/contact_subjects/admin_add.ctp:9
+#: /views/contact_subjects/admin_edit.ctp:10
+#: /views/events/admin_add.ctp:20
+#: /views/events/admin_edit.ctp:17
+#: /views/galleries/admin_add.ctp:19
+#: /views/galleries/admin_edit.ctp:21
+#: /views/info_pages/admin_edit.ctp:22
+#: /views/item_brands/admin_add.ctp:10
+#: /views/item_brands/admin_edit.ctp:10
+#: /views/item_categories/admin_add.ctp:9
+#: /views/item_categories/admin_edit.ctp:10
+#: /views/item_colors/admin_add.ctp:10
+#: /views/item_colors/admin_edit.ctp:10
+#: /views/item_groups/admin_add.ctp:9
+#: /views/item_groups/admin_edit.ctp:9
+#: /views/item_images/admin_add.ctp:23
+#: /views/item_images/admin_edit.ctp:25
+#: /views/item_recomends/admin_add.ctp:22
+#: /views/item_recomends/admin_edit.ctp:23
+#: /views/item_sizes/admin_add.ctp:9
+#: /views/item_sizes/admin_edit.ctp:9
+#: /views/item_types/admin_add.ctp:11
+#: /views/item_types/admin_edit.ctp:12
+#: /views/items/admin_add.ctp:36
+#: /views/items/admin_add_stock.ctp:27
+#: /views/items/admin_edit.ctp:30
+#: /views/products/admin_add.ctp:14
+#: /views/products/admin_edit.ctp:16
+#: /views/push_agents/admin_add.ctp:8
+#: /views/push_agents/admin_edit.ctp:9
+#: /views/settings/admin_index.ctp:22
+#: /views/stores/admin_add.ctp:18
+#: /views/stores/admin_edit.ctp:20
+#: /views/tags/admin_add.ctp:8
+#: /views/tags/admin_edit.ctp:10
+#: /views/users/admin_edit.ctp:22
+#: /views/website_images/admin_add.ctp:15
+#: /views/website_images/admin_edit.ctp:17
+msgid "Submit"
+msgstr ""
+
+#: /views/albums/admin_add.ctp:12
+#: /views/albums/admin_edit.ctp:13
+#: /views/albums/admin_index.ctp:10;45
+#: /views/albums/admin_view.ctp:27;44
+#: /views/carts/admin_change_discount.ctp:57
+#: /views/carts/admin_index.ctp:15;70
+#: /views/carts/admin_sales_order.ctp:111
+#: /views/carts/admin_shipped.ctp:138
+#: /views/carts/admin_view.ctp:110
+#: /views/categories/admin_add.ctp:12
+#: /views/categories/admin_edit.ctp:14
+#: /views/categories/admin_index.ctp:9;44
+#: /views/categories/admin_view.ctp:29;47
+#: /views/contact_subjects/admin_add.ctp:13
+#: /views/contact_subjects/admin_edit.ctp:14
+#: /views/contact_subjects/admin_index.ctp:10;43
+#: /views/contact_subjects/admin_view.ctp:32
+#: /views/contacts/admin_index.ctp:13;47
+#: /views/contacts/admin_view.ctp:43
+#: /views/events/admin_add.ctp:24
+#: /views/events/admin_edit.ctp:21
+#: /views/events/admin_index.ctp:13;54
+#: /views/events/admin_view.ctp:71
+#: /views/galleries/admin_add.ctp:23
+#: /views/galleries/admin_edit.ctp:25
+#: /views/galleries/admin_view.ctp:39
+#: /views/info_pages/admin_edit.ctp:26
+#: /views/info_pages/admin_index.ctp:12
+#: /views/info_pages/admin_view.ctp:42
+#: /views/item_brands/admin_add.ctp:14
+#: /views/item_brands/admin_edit.ctp:14
+#: /views/item_brands/admin_index.ctp:11;45
+#: /views/item_brands/admin_view.ctp:37;59
+#: /views/item_categories/admin_add.ctp:13
+#: /views/item_categories/admin_edit.ctp:14
+#: /views/item_categories/admin_index.ctp:9;41
+#: /views/item_categories/admin_view.ctp:34;53
+#: /views/item_colors/admin_add.ctp:14
+#: /views/item_colors/admin_edit.ctp:14
+#: /views/item_colors/admin_index.ctp:11;45
+#: /views/item_colors/admin_view.ctp:37;59
+#: /views/item_groups/admin_add.ctp:13
+#: /views/item_groups/admin_edit.ctp:13
+#: /views/item_groups/admin_index.ctp:10;43
+#: /views/item_groups/admin_view.ctp:32;54
+#: /views/item_images/admin_add.ctp:27
+#: /views/item_images/admin_edit.ctp:29
+#: /views/item_images/admin_view.ctp:29
+#: /views/item_sizes/admin_add.ctp:13
+#: /views/item_sizes/admin_edit.ctp:13
+#: /views/item_sizes/admin_index.ctp:10;43
+#: /views/item_sizes/admin_view.ctp:32;54
+#: /views/item_types/admin_add.ctp:15
+#: /views/item_types/admin_edit.ctp:16
+#: /views/item_types/admin_index.ctp:10;45
+#: /views/item_types/admin_view.ctp:44;68
+#: /views/items/admin_add.ctp:40
+#: /views/items/admin_add_stock.ctp:31
+#: /views/items/admin_edit.ctp:34
+#: /views/items/admin_index.ctp:21;68
+#: /views/items/admin_view.ctp:125;153;196;239
+#: /views/newsletters/admin_index.ctp:17;55
+#: /views/polls/admin_add.ctp:29
+#: /views/polls/admin_edit.ctp:29
+#: /views/polls/admin_index.ctp:12;57
+#: /views/polls/admin_view.ctp:29
+#: /views/products/admin_add.ctp:18
+#: /views/products/admin_edit.ctp:20
+#: /views/products/admin_index.ctp:13;51
+#: /views/products/admin_view.ctp:54;73
+#: /views/push_agents/admin_add.ctp:12
+#: /views/push_agents/admin_edit.ctp:13
+#: /views/push_agents/admin_index.ctp:45
+#: /views/push_agents/admin_view.ctp:27
+#: /views/settings/admin_index.ctp:26
+#: /views/stores/admin_add.ctp:22
+#: /views/stores/admin_edit.ctp:24
+#: /views/stores/admin_index.ctp:12;51
+#: /views/stores/admin_view.ctp:66
+#: /views/tags/admin_add.ctp:12
+#: /views/tags/admin_edit.ctp:14
+#: /views/tags/admin_index.ctp:9;43
+#: /views/tags/admin_view.ctp:29;51
+#: /views/users/admin_edit.ctp:26
+#: /views/users/admin_index.ctp:19;72
+#: /views/users/admin_view.ctp:62
+#: /views/website_images/admin_add.ctp:19
+#: /views/website_images/admin_edit.ctp:21
+#: /views/website_images/admin_index.ctp:11;61
+#: /views/website_images/admin_view.ctp:46
+msgid "Actions"
+msgstr ""
+
+#: /views/albums/admin_add.ctp:14
+#: /views/albums/admin_edit.ctp:16
+#: /views/albums/admin_view.ctp:31
+#: /views/galleries/admin_add.ctp:25
+#: /views/galleries/admin_edit.ctp:28
+#: /views/galleries/admin_view.ctp:44
+msgid "List Albums"
+msgstr ""
+
+#: /views/albums/admin_edit.ctp:4
+msgid "Admin Edit Album"
+msgstr ""
+
+#: /views/albums/admin_edit.ctp:15
+#: /views/albums/admin_index.ctp:24
+#: /views/albums/admin_view.ctp:66
+#: /views/carts/admin_index.ctp:51
+#: /views/categories/admin_edit.ctp:16
+#: /views/categories/admin_index.ctp:23
+#: /views/categories/admin_view.ctp:59
+#: /views/contact_subjects/admin_edit.ctp:16
+#: /views/contact_subjects/admin_index.ctp:23
+#: /views/contacts/admin_index.ctp:27
+#: /views/events/admin_edit.ctp:23
+#: /views/events/admin_index.ctp:33
+#: /views/item_brands/admin_edit.ctp:16
+#: /views/item_brands/admin_index.ctp:25
+#: /views/item_brands/admin_view.ctp:77
+#: /views/item_categories/admin_edit.ctp:16
+#: /views/item_categories/admin_index.ctp:21
+#: /views/item_categories/admin_view.ctp:68
+#: /views/item_colors/admin_edit.ctp:16
+#: /views/item_colors/admin_index.ctp:25
+#: /views/item_colors/admin_view.ctp:77
+#: /views/item_groups/admin_edit.ctp:15
+#: /views/item_groups/admin_index.ctp:23
+#: /views/item_groups/admin_view.ctp:72
+#: /views/item_images/admin_edit.ctp:31
+#: /views/item_recomends/admin_edit.ctp:29
+#: /views/item_sizes/admin_edit.ctp:15
+#: /views/item_sizes/admin_index.ctp:23
+#: /views/item_sizes/admin_view.ctp:72
+#: /views/item_types/admin_edit.ctp:18
+#: /views/item_types/admin_index.ctp:25
+#: /views/item_types/admin_view.ctp:86
+#: /views/items/admin_add_stock.ctp:33
+#: /views/items/admin_edit.ctp:36
+#: /views/items/admin_index.ctp:44;64
+#: /views/items/admin_view.ctp:165;208;253
+#: /views/newsletters/admin_index.ctp:32;51
+#: /views/polls/admin_edit.ctp:31
+#: /views/polls/admin_index.ctp:38
+#: /views/products/admin_edit.ctp:22
+#: /views/products/admin_index.ctp:31
+#: /views/products/admin_view.ctp:87
+#: /views/push_agents/admin_edit.ctp:15
+#: /views/push_agents/admin_index.ctp:24
+#: /views/stores/admin_edit.ctp:26
+#: /views/stores/admin_index.ctp:30
+#: /views/tags/admin_edit.ctp:16
+#: /views/tags/admin_index.ctp:22
+#: /views/tags/admin_view.ctp:69
+#: /views/users/admin_edit.ctp:28
+#: /views/users/admin_index.ctp:46;68
+#: /views/website_images/admin_edit.ctp:23
+#: /views/website_images/admin_index.ctp:28
+#: /views/website_images/admin_view.ctp:49
+msgid "Delete"
+msgstr ""
+
+#: /views/albums/admin_edit.ctp:15
+#: /views/albums/admin_index.ctp:24
+msgid "Are you sure you want to delete this album?"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:2
+msgid "Albums"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:7
+#: /views/albums/admin_view.ctp:4
+#: /views/galleries/admin_add.ctp:4
+#: /views/galleries/admin_edit.ctp:4
+msgid "Album Name"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:8
+#: /views/albums/admin_view.ctp:9
+#: /views/galleries/admin_view.ctp:9
+#: /views/items/admin_view.ctp:82
+#: /views/products/admin_view.ctp:14
+msgid "Description"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:9
+#: /views/albums/admin_view.ctp:43
+#: /views/carts/admin_index.ctp:14
+#: /views/carts/admin_view.ctp:131
+#: /views/categories/admin_index.ctp:8
+#: /views/categories/admin_view.ctp:46
+#: /views/contact_subjects/admin_index.ctp:9
+#: /views/contacts/admin_index.ctp:12
+#: /views/events/admin_index.ctp:12
+#: /views/info_pages/admin_index.ctp:11
+#: /views/item_brands/admin_index.ctp:10
+#: /views/item_brands/admin_view.ctp:58
+#: /views/item_colors/admin_index.ctp:10
+#: /views/item_colors/admin_view.ctp:58
+#: /views/item_groups/admin_index.ctp:9
+#: /views/item_groups/admin_view.ctp:53
+#: /views/item_sizes/admin_index.ctp:9
+#: /views/item_sizes/admin_view.ctp:53
+#: /views/item_types/admin_index.ctp:9
+#: /views/item_types/admin_view.ctp:67
+#: /views/items/admin_index.ctp:20
+#: /views/items/admin_view.ctp:152;195;238
+#: /views/polls/admin_index.ctp:11
+#: /views/push_agents/admin_index.ctp:9
+#: /views/stores/admin_index.ctp:11
+#: /views/tags/admin_index.ctp:8
+#: /views/tags/admin_view.ctp:50
+#: /views/users/admin_index.ctp:18
+msgid "Last Modified On"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:22
+#: /views/albums/admin_view.ctp:64
+#: /views/carts/admin_index.ctp:37
+#: /views/categories/admin_index.ctp:21
+#: /views/categories/admin_view.ctp:57
+#: /views/contact_subjects/admin_index.ctp:21
+#: /views/contacts/admin_index.ctp:26
+#: /views/events/admin_index.ctp:30
+#: /views/info_pages/admin_index.ctp:26
+#: /views/item_brands/admin_index.ctp:23
+#: /views/item_brands/admin_view.ctp:75
+#: /views/item_categories/admin_index.ctp:19
+#: /views/item_categories/admin_view.ctp:66
+#: /views/item_colors/admin_index.ctp:23
+#: /views/item_colors/admin_view.ctp:75
+#: /views/item_groups/admin_index.ctp:21
+#: /views/item_groups/admin_view.ctp:70
+#: /views/item_sizes/admin_index.ctp:21
+#: /views/item_sizes/admin_view.ctp:70
+#: /views/item_types/admin_index.ctp:23
+#: /views/item_types/admin_view.ctp:84
+#: /views/items/admin_index.ctp:42
+#: /views/items/admin_view.ctp:163;206;251
+#: /views/polls/admin_index.ctp:36
+#: /views/products/admin_index.ctp:29
+#: /views/products/admin_view.ctp:85
+#: /views/push_agents/admin_index.ctp:22
+#: /views/stores/admin_index.ctp:28
+#: /views/tags/admin_index.ctp:20
+#: /views/tags/admin_view.ctp:67
+#: /views/users/admin_index.ctp:38
+#: /views/website_images/admin_index.ctp:26
+msgid "View"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:23
+#: /views/albums/admin_view.ctp:65
+#: /views/categories/admin_index.ctp:22
+#: /views/categories/admin_view.ctp:58
+#: /views/contact_subjects/admin_index.ctp:22
+#: /views/events/admin_index.ctp:31
+#: /views/info_pages/admin_index.ctp:27
+#: /views/item_brands/admin_index.ctp:24
+#: /views/item_brands/admin_view.ctp:76
+#: /views/item_categories/admin_index.ctp:20
+#: /views/item_categories/admin_view.ctp:67
+#: /views/item_colors/admin_index.ctp:24
+#: /views/item_colors/admin_view.ctp:76
+#: /views/item_groups/admin_index.ctp:22
+#: /views/item_groups/admin_view.ctp:71
+#: /views/item_sizes/admin_index.ctp:22
+#: /views/item_sizes/admin_view.ctp:71
+#: /views/item_types/admin_index.ctp:24
+#: /views/item_types/admin_view.ctp:85
+#: /views/items/admin_index.ctp:43
+#: /views/items/admin_view.ctp:164;207;252
+#: /views/polls/admin_index.ctp:37
+#: /views/products/admin_index.ctp:30
+#: /views/products/admin_view.ctp:86
+#: /views/push_agents/admin_index.ctp:23
+#: /views/stores/admin_index.ctp:29
+#: /views/tags/admin_index.ctp:21
+#: /views/tags/admin_view.ctp:68
+#: /views/users/admin_index.ctp:39
+#: /views/website_images/admin_index.ctp:27
+#: /views/website_images/admin_view.ctp:48
+msgid "Edit"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:33
+#: /views/albums/admin_view.ctp:76
+#: /views/carts/admin_change_discount.ctp:99
+#: /views/carts/admin_index.ctp:60
+#: /views/carts/admin_view.ctp:153
+#: /views/categories/admin_index.ctp:33
+#: /views/categories/admin_view.ctp:67
+#: /views/contact_subjects/admin_index.ctp:31
+#: /views/contacts/admin_index.ctp:35
+#: /views/events/admin_index.ctp:42
+#: /views/info_pages/admin_index.ctp:36
+#: /views/item_brands/admin_index.ctp:33
+#: /views/item_brands/admin_view.ctp:85
+#: /views/item_categories/admin_index.ctp:29
+#: /views/item_categories/admin_view.ctp:76
+#: /views/item_colors/admin_index.ctp:33
+#: /views/item_colors/admin_view.ctp:85
+#: /views/item_groups/admin_index.ctp:31
+#: /views/item_groups/admin_view.ctp:80
+#: /views/item_sizes/admin_index.ctp:31
+#: /views/item_sizes/admin_view.ctp:80
+#: /views/item_types/admin_index.ctp:33
+#: /views/item_types/admin_view.ctp:94
+#: /views/items/admin_index.ctp:53
+#: /views/items/admin_view.ctp:173;216;261
+#: /views/newsletters/admin_index.ctp:41
+#: /views/products/admin_index.ctp:39
+#: /views/push_agents/admin_index.ctp:33
+#: /views/stores/admin_index.ctp:39
+#: /views/tags/admin_index.ctp:31
+#: /views/tags/admin_view.ctp:77
+#: /views/users/admin_index.ctp:56
+#: /views/website_images/admin_index.ctp:37
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:38
+#: /views/albums/admin_view.ctp:81
+#: /views/carts/admin_change_discount.ctp:104
+#: /views/carts/admin_index.ctp:64
+#: /views/carts/admin_view.ctp:158
+#: /views/categories/admin_index.ctp:38
+#: /views/categories/admin_view.ctp:72
+#: /views/contact_subjects/admin_index.ctp:36
+#: /views/contacts/admin_index.ctp:40
+#: /views/events/admin_index.ctp:47
+#: /views/info_pages/admin_index.ctp:41
+#: /views/item_brands/admin_index.ctp:38
+#: /views/item_brands/admin_view.ctp:90
+#: /views/item_categories/admin_index.ctp:34
+#: /views/item_categories/admin_view.ctp:81
+#: /views/item_colors/admin_index.ctp:38
+#: /views/item_colors/admin_view.ctp:90
+#: /views/item_groups/admin_index.ctp:36
+#: /views/item_groups/admin_view.ctp:85
+#: /views/item_sizes/admin_index.ctp:36
+#: /views/item_sizes/admin_view.ctp:85
+#: /views/item_types/admin_index.ctp:38
+#: /views/item_types/admin_view.ctp:99
+#: /views/items/admin_index.ctp:59
+#: /views/items/admin_view.ctp:178;221;266
+#: /views/newsletters/admin_index.ctp:46
+#: /views/products/admin_index.ctp:44
+#: /views/push_agents/admin_index.ctp:38
+#: /views/stores/admin_index.ctp:44
+#: /views/tags/admin_index.ctp:36
+#: /views/tags/admin_view.ctp:82
+#: /views/users/admin_index.ctp:61
+#: /views/website_images/admin_index.ctp:42
+msgid "previous"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:41
+#: /views/albums/admin_view.ctp:83
+#: /views/carts/admin_change_discount.ctp:106
+#: /views/carts/admin_index.ctp:66
+#: /views/carts/admin_view.ctp:160
+#: /views/categories/admin_index.ctp:40
+#: /views/categories/admin_view.ctp:74
+#: /views/contact_subjects/admin_index.ctp:39
+#: /views/contacts/admin_index.ctp:43
+#: /views/events/admin_index.ctp:50
+#: /views/info_pages/admin_index.ctp:44
+#: /views/item_brands/admin_index.ctp:41
+#: /views/item_brands/admin_view.ctp:92
+#: /views/item_categories/admin_index.ctp:37
+#: /views/item_categories/admin_view.ctp:83
+#: /views/item_colors/admin_index.ctp:41
+#: /views/item_colors/admin_view.ctp:92
+#: /views/item_groups/admin_index.ctp:39
+#: /views/item_groups/admin_view.ctp:87
+#: /views/item_sizes/admin_index.ctp:39
+#: /views/item_sizes/admin_view.ctp:87
+#: /views/item_types/admin_index.ctp:41
+#: /views/item_types/admin_view.ctp:101
+#: /views/items/admin_index.ctp:61
+#: /views/items/admin_view.ctp:180;223;268
+#: /views/newsletters/admin_index.ctp:49
+#: /views/products/admin_index.ctp:47
+#: /views/push_agents/admin_index.ctp:41
+#: /views/stores/admin_index.ctp:47
+#: /views/tags/admin_index.ctp:39
+#: /views/tags/admin_view.ctp:84
+#: /views/users/admin_index.ctp:64
+#: /views/website_images/admin_index.ctp:44
+msgid "next"
+msgstr ""
+
+#: /views/albums/admin_index.ctp:47
+#: /views/albums/admin_view.ctp:32
+#: /views/galleries/admin_add.ctp:26
+#: /views/galleries/admin_edit.ctp:29
+#: /views/galleries/admin_view.ctp:45
+msgid "New Album"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:2
+#: /views/galleries/admin_add.ctp:2
+#: /views/galleries/admin_edit.ctp:2
+#: /views/galleries/admin_view.ctp:4
+msgid "Album"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:14
+#: /views/carts/admin_view.ctp:97
+#: /views/categories/admin_view.ctp:16
+#: /views/contact_subjects/admin_view.ctp:19
+#: /views/contacts/admin_view.ctp:30
+#: /views/events/admin_view.ctp:58
+#: /views/galleries/admin_view.ctp:26
+#: /views/info_pages/admin_view.ctp:29
+#: /views/item_brands/admin_view.ctp:24
+#: /views/item_colors/admin_view.ctp:24
+#: /views/item_groups/admin_view.ctp:19
+#: /views/item_images/admin_view.ctp:16
+#: /views/item_sizes/admin_view.ctp:19
+#: /views/item_types/admin_view.ctp:31
+#: /views/items/admin_view.ctp:104
+#: /views/push_agents/admin_view.ctp:14
+#: /views/stores/admin_view.ctp:53
+#: /views/tags/admin_view.ctp:16
+#: /views/users/admin_view.ctp:49
+msgid "Created"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:19
+#: /views/carts/admin_view.ctp:102
+#: /views/categories/admin_view.ctp:21
+#: /views/contact_subjects/admin_view.ctp:24
+#: /views/contacts/admin_view.ctp:35
+#: /views/events/admin_view.ctp:63
+#: /views/galleries/admin_view.ctp:31
+#: /views/info_pages/admin_view.ctp:34
+#: /views/item_brands/admin_view.ctp:29
+#: /views/item_categories/admin_view.ctp:26
+#: /views/item_colors/admin_view.ctp:29
+#: /views/item_groups/admin_view.ctp:24
+#: /views/item_images/admin_view.ctp:21
+#: /views/item_sizes/admin_view.ctp:24
+#: /views/item_types/admin_view.ctp:36
+#: /views/items/admin_view.ctp:109
+#: /views/products/admin_view.ctp:46;72
+#: /views/push_agents/admin_view.ctp:19
+#: /views/stores/admin_view.ctp:58
+#: /views/tags/admin_view.ctp:21
+#: /views/users/admin_view.ctp:54
+#: /views/website_images/admin_view.ctp:38
+msgid "Modified"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:29
+msgid "Edit Album"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:30
+msgid "Delete Album"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:30;66
+#: /views/carts/admin_change_discount.ctp:59
+#: /views/carts/admin_sales_order.ctp:113
+#: /views/carts/admin_shipped.ctp:140
+#: /views/carts/admin_view.ctp:112
+#: /views/categories/admin_view.ctp:59
+#: /views/contact_subjects/admin_edit.ctp:16
+#: /views/contact_subjects/admin_index.ctp:23
+#: /views/contact_subjects/admin_view.ctp:35
+#: /views/contacts/admin_index.ctp:27
+#: /views/contacts/admin_view.ctp:45
+#: /views/item_brands/admin_edit.ctp:16
+#: /views/item_brands/admin_index.ctp:25
+#: /views/item_brands/admin_view.ctp:40;77
+#: /views/item_categories/admin_edit.ctp:16
+#: /views/item_categories/admin_index.ctp:21
+#: /views/item_categories/admin_view.ctp:37;68
+#: /views/item_colors/admin_edit.ctp:16
+#: /views/item_colors/admin_index.ctp:25
+#: /views/item_colors/admin_view.ctp:40;77
+#: /views/item_groups/admin_edit.ctp:15
+#: /views/item_groups/admin_index.ctp:23
+#: /views/item_groups/admin_view.ctp:35;72
+#: /views/item_images/admin_edit.ctp:31
+#: /views/item_images/admin_view.ctp:32
+#: /views/item_sizes/admin_edit.ctp:15
+#: /views/item_sizes/admin_index.ctp:23
+#: /views/item_sizes/admin_view.ctp:35;72
+#: /views/item_types/admin_edit.ctp:18
+#: /views/item_types/admin_index.ctp:25
+#: /views/item_types/admin_view.ctp:47;86
+#: /views/items/admin_add_stock.ctp:33
+#: /views/items/admin_edit.ctp:36
+#: /views/items/admin_index.ctp:44
+#: /views/items/admin_view.ctp:128;165;208;253
+#: /views/products/admin_edit.ctp:22
+#: /views/products/admin_index.ctp:31
+#: /views/products/admin_view.ctp:57;87
+#: /views/tags/admin_edit.ctp:16
+#: /views/tags/admin_index.ctp:22
+#: /views/tags/admin_view.ctp:32;69
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:36
+msgid "Related Images"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:42
+#: /views/items/admin_view.ctp:151;194
+#: /views/website_images/admin_index.ctp:8
+#: /views/website_images/admin_view.ctp:5
+msgid "Image File"
+msgstr ""
+
+#: /views/albums/admin_view.ctp:87
+#: /views/galleries/admin_view.ctp:43
+msgid "New Image"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:5
+#: /views/carts/admin_sales_order.ctp:5
+#: /views/carts/admin_shipped.ctp:5
+#: /views/carts/admin_view.ctp:5
+#: /views/users/admin_dashboard.ctp:65;97;129;161;193
+msgid "Transaction Code"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:11
+#: /views/carts/admin_index.ctp:10
+#: /views/carts/admin_sales_order.ctp:11
+#: /views/carts/admin_shipped.ctp:11
+#: /views/carts/admin_view.ctp:11
+#: /views/users/admin_dashboard.ctp:35;66;98;130;162;194
+#: /views/users/admin_index.ctp:14
+#: /views/users/admin_view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:16
+#: /views/carts/admin_index.ctp:11
+#: /views/carts/admin_sales_order.ctp:16
+#: /views/carts/admin_shipped.ctp:16
+#: /views/carts/admin_view.ctp:16
+#: /views/users/admin_index.ctp:15
+#: /views/users/admin_view.ctp:14
+msgid "User Type"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:21
+#: /views/carts/admin_index.ctp:12
+#: /views/carts/admin_sales_order.ctp:21
+#: /views/carts/admin_shipped.ctp:21
+#: /views/carts/admin_view.ctp:45
+msgid "Cart Status"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:27
+msgid "Invoice Number"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:32
+#: /views/carts/admin_sales_order.ctp:27
+#: /views/carts/admin_shipped.ctp:27
+#: /views/carts/admin_view.ctp:63
+msgid "Invoice Date"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:37
+#: /views/carts/admin_sales_order.ctp:32
+#: /views/carts/admin_shipped.ctp:32
+#: /views/carts/admin_view.ctp:68
+msgid "Shipping Address"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:49
+msgid "Change Discount (%)"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:59
+#: /views/carts/admin_sales_order.ctp:113
+#: /views/carts/admin_shipped.ctp:140
+#: /views/carts/admin_view.ctp:112
+msgid "Delete Transaction"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:60
+#: /views/carts/admin_index.ctp:72
+#: /views/carts/admin_sales_order.ctp:114
+#: /views/carts/admin_shipped.ctp:141
+#: /views/carts/admin_view.ctp:113
+msgid "Open Transactions"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:61
+#: /views/carts/admin_index.ctp:74
+#: /views/carts/admin_sales_order.ctp:116
+#: /views/carts/admin_shipped.ctp:143
+#: /views/carts/admin_view.ctp:115
+msgid "Confirmed Transactions"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:62
+#: /views/carts/admin_index.ctp:75
+#: /views/carts/admin_sales_order.ctp:117
+#: /views/carts/admin_shipped.ctp:144
+#: /views/carts/admin_view.ctp:116
+msgid "Paid Transactions"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:63
+#: /views/carts/admin_index.ctp:76
+#: /views/carts/admin_sales_order.ctp:118
+#: /views/carts/admin_shipped.ctp:145
+#: /views/carts/admin_view.ctp:117
+msgid "Shipped Transactions"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:64
+#: /views/carts/admin_index.ctp:77
+#: /views/carts/admin_sales_order.ctp:119
+#: /views/carts/admin_shipped.ctp:146
+#: /views/carts/admin_view.ctp:118
+msgid "Closed Transactions"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:68
+#: /views/carts/admin_view.ctp:122
+msgid "Items for this transaction"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:73
+#: /views/carts/admin_view.ctp:127
+#: /views/item_brands/admin_view.ctp:53
+#: /views/item_colors/admin_view.ctp:53
+#: /views/item_groups/admin_view.ctp:48
+#: /views/item_images/admin_add.ctp:9
+#: /views/item_images/admin_edit.ctp:9
+#: /views/item_recomends/admin_add.ctp:9
+#: /views/item_recomends/admin_edit.ctp:9
+#: /views/item_sizes/admin_view.ctp:48
+#: /views/item_types/admin_view.ctp:62
+#: /views/items/admin_add_stock.ctp:9
+#: /views/items/admin_index.ctp:15
+#: /views/items/admin_view.ctp:9
+#: /views/tags/admin_view.ctp:45
+msgid "Item Name"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:74
+#: /views/carts/admin_view.ctp:128
+msgid "Item Price"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:75
+#: /views/carts/admin_view.ctp:129
+msgid "Qty"
+msgstr ""
+
+#: /views/carts/admin_change_discount.ctp:76
+#: /views/carts/admin_index.ctp:13
+#: /views/carts/admin_shipped.ctp:117
+#: /views/carts/admin_view.ctp:88;130
+msgid "Total Price"
+msgstr ""
+
+#: /views/carts/admin_index.ctp:39
+msgid "Re-Open"
+msgstr ""
+
+#: /views/carts/admin_index.ctp:40
+#: /views/carts/admin_sales_order.ctp:2
+msgid "Sales Order"
+msgstr ""
+
+#: /views/carts/admin_index.ctp:43
+msgid "Re-"
+msgstr ""
+
+#: /views/carts/admin_index.ctp:46
+msgid "Set "
+msgstr ""
+
+#: /views/carts/admin_index.ctp:49
+msgid "Set Shipped"
+msgstr ""
+
+#: /views/carts/admin_index.ctp:51
+msgid "Are you sure you want to delete this transaction?"
+msgstr ""
+
+#: /views/carts/admin_index.ctp:73
+#: /views/carts/admin_sales_order.ctp:115
+#: /views/carts/admin_shipped.ctp:142
+#: /views/carts/admin_view.ctp:114
+msgid "Checkout Transactions"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:37
+#: /views/carts/admin_shipped.ctp:37
+#: /views/carts/admin_view.ctp:73
+msgid "Shipping Phone"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:44
+#: /views/carts/admin_shipped.ctp:44
+msgid "Shopping Cart"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:49
+#: /views/carts/admin_shipped.ctp:49
+msgid "Product Name"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:50
+#: /views/carts/admin_shipped.ctp:50
+#: /views/item_sizes/admin_index.ctp:7
+#: /views/item_sizes/admin_view.ctp:9
+#: /views/products/admin_view.ctp:34
+msgid "Size"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:51
+#: /views/carts/admin_shipped.ctp:51
+#: /views/products/admin_view.ctp:19
+msgid "Price"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:52
+#: /views/carts/admin_shipped.ctp:52
+msgid "Quantity"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:53
+#: /views/carts/admin_shipped.ctp:53
+msgid "Total"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:71
+#: /views/carts/admin_shipped.ctp:79
+#: /views/carts/admin_view.ctp:21
+msgid "Sub Total"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:81
+#: /views/carts/admin_shipped.ctp:89
+msgid "Discount "
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:81
+#: /views/carts/admin_shipped.ctp:89
+msgid "%"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:90
+#: /views/carts/admin_shipped.ctp:98
+msgid "Sub Total after discount"
+msgstr ""
+
+#: /views/carts/admin_sales_order.ctp:103
+msgid "Add Shipping Costs"
+msgstr ""
+
+#: /views/carts/admin_shipped.ctp:2
+msgid "Shipping"
+msgstr ""
+
+#: /views/carts/admin_shipped.ctp:108
+#: /views/carts/admin_view.ctp:80
+msgid "Shipping Costs"
+msgstr ""
+
+#: /views/carts/admin_shipped.ctp:129
+msgid "Add Airwaybill Number"
+msgstr ""
+
+#: /views/carts/admin_shipped.ctp:131
+msgid "Postal Service Company"
+msgstr ""
+
+#: /views/carts/admin_view.ctp:30
+msgid "Discount"
+msgstr ""
+
+#: /views/carts/admin_view.ctp:36
+msgid "Total after diskon"
+msgstr ""
+
+#: /views/carts/admin_view.ctp:51
+msgid "Postal Service"
+msgstr ""
+
+#: /views/carts/admin_view.ctp:56
+msgid "Tracking Number"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:4
+msgid "Add New Category"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:14
+#: /views/categories/admin_edit.ctp:17
+#: /views/categories/admin_view.ctp:33
+#: /views/item_types/admin_add.ctp:18
+#: /views/item_types/admin_edit.ctp:20
+#: /views/item_types/admin_index.ctp:48
+#: /views/item_types/admin_view.ctp:50
+#: /views/products/admin_add.ctp:21
+#: /views/products/admin_edit.ctp:24
+#: /views/products/admin_index.ctp:54
+#: /views/products/admin_view.ctp:60
+#: /views/users/admin_dashboard.ctp:11
+msgid "List Categories"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:15
+#: /views/categories/admin_edit.ctp:18
+#: /views/categories/admin_index.ctp:47
+#: /views/categories/admin_view.ctp:35
+#: /views/item_categories/admin_add.ctp:16
+#: /views/item_categories/admin_edit.ctp:18
+#: /views/item_categories/admin_index.ctp:44
+#: /views/item_categories/admin_view.ctp:40
+#: /views/item_types/admin_add.ctp:17
+#: /views/item_types/admin_edit.ctp:19
+#: /views/item_types/admin_view.ctp:48
+#: /views/items/admin_add.ctp:45
+#: /views/items/admin_add_stock.ctp:37
+#: /views/items/admin_edit.ctp:40
+#: /views/items/admin_index.ctp:73
+#: /views/items/admin_view.ctp:133
+#: /views/users/admin_dashboard.ctp:12
+msgid "List Item Types"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:16
+#: /views/categories/admin_edit.ctp:19
+#: /views/categories/admin_index.ctp:48
+#: /views/categories/admin_view.ctp:36;78
+#: /views/item_categories/admin_add.ctp:17
+#: /views/item_categories/admin_edit.ctp:19
+#: /views/item_categories/admin_index.ctp:45
+#: /views/item_categories/admin_view.ctp:41;87
+#: /views/item_types/admin_index.ctp:47
+#: /views/item_types/admin_view.ctp:49
+#: /views/items/admin_add.ctp:46
+#: /views/items/admin_add_stock.ctp:38
+#: /views/items/admin_edit.ctp:41
+#: /views/items/admin_index.ctp:74
+#: /views/items/admin_view.ctp:134
+msgid "New Item Type"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:4
+#: /views/categories/admin_view.ctp:31
+msgid "Edit Category"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:16
+msgid "Are you sure you want to delete  this category?"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:2
+msgid "Categories"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:7
+#: /views/categories/admin_view.ctp:4
+#: /views/contacts/admin_index.ctp:7
+#: /views/contacts/admin_view.ctp:5
+#: /views/products/admin_view.ctp:4
+#: /views/push_agents/admin_index.ctp:7
+#: /views/push_agents/admin_view.ctp:4
+#: /views/tags/admin_index.ctp:7
+#: /views/tags/admin_view.ctp:4
+msgid "Name"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:23
+#: /views/categories/admin_view.ctp:32
+msgid "Are you sure you want to delete this category?"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:46
+#: /views/categories/admin_view.ctp:34
+#: /views/item_types/admin_add.ctp:19
+#: /views/item_types/admin_edit.ctp:21
+#: /views/item_types/admin_index.ctp:49
+#: /views/item_types/admin_view.ctp:51
+msgid "New Category"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:2
+msgid "Category Detail"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:10
+msgid "Category Image"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:32
+msgid "Delete Category"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:40
+#: /views/item_categories/admin_view.ctp:45
+msgid "Related Item Types"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:44
+#: /views/item_types/admin_index.ctp:6
+#: /views/item_types/admin_view.ctp:9
+msgid "Type Name"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:45
+#: /views/item_brands/admin_index.ctp:9
+#: /views/item_brands/admin_view.ctp:57
+#: /views/item_colors/admin_index.ctp:9
+#: /views/item_colors/admin_view.ctp:57
+#: /views/item_groups/admin_index.ctp:8
+#: /views/item_groups/admin_view.ctp:52
+#: /views/item_sizes/admin_index.ctp:8
+#: /views/item_sizes/admin_view.ctp:52
+#: /views/item_types/admin_index.ctp:8
+#: /views/item_types/admin_view.ctp:66
+#: /views/items/admin_index.ctp:19
+#: /views/tags/admin_view.ctp:49
+msgid "Active?"
+msgstr ""
+
+#: /views/contact_subjects/admin_add.ctp:4
+msgid "Add Contact Us Subject"
+msgstr ""
+
+#: /views/contact_subjects/admin_add.ctp:15
+#: /views/contact_subjects/admin_edit.ctp:17
+#: /views/contact_subjects/admin_view.ctp:36
+#: /views/contacts/admin_index.ctp:49
+#: /views/contacts/admin_view.ctp:47
+msgid "List Contact Subjects"
+msgstr ""
+
+#: /views/contact_subjects/admin_add.ctp:16
+#: /views/contact_subjects/admin_edit.ctp:18
+#: /views/contact_subjects/admin_index.ctp:46
+#: /views/contact_subjects/admin_view.ctp:38
+#: /views/contacts/admin_view.ctp:46
+msgid "List Contacts Us Message"
+msgstr ""
+
+#: /views/contact_subjects/admin_edit.ctp:4
+msgid "Edit Contact Us Subject"
+msgstr ""
+
+#: /views/contact_subjects/admin_index.ctp:2
+msgid "Contact Us Subjects"
+msgstr ""
+
+#: /views/contact_subjects/admin_index.ctp:6
+#: /views/contact_subjects/admin_view.ctp:4
+#: /views/contacts/admin_index.ctp:9
+#: /views/contacts/admin_view.ctp:15
+msgid "Subject"
+msgstr ""
+
+#: /views/contact_subjects/admin_index.ctp:7
+msgid "Subject EN"
+msgstr ""
+
+#: /views/contact_subjects/admin_index.ctp:8
+msgid "Destination Email Address"
+msgstr ""
+
+#: /views/contact_subjects/admin_index.ctp:45
+#: /views/contact_subjects/admin_view.ctp:37
+msgid "New Contact Subject"
+msgstr ""
+
+#: /views/contact_subjects/admin_view.ctp:2
+msgid "Contact Us Subject"
+msgstr ""
+
+#: /views/contact_subjects/admin_view.ctp:9
+msgid "Subject English"
+msgstr ""
+
+#: /views/contact_subjects/admin_view.ctp:14
+#: /views/contacts/admin_index.ctp:8
+#: /views/contacts/admin_view.ctp:10
+#: /views/newsletters/admin_index.ctp:14
+msgid "Email Address"
+msgstr ""
+
+#: /views/contact_subjects/admin_view.ctp:34
+msgid "Edit Contact Subject"
+msgstr ""
+
+#: /views/contact_subjects/admin_view.ctp:35
+msgid "Delete Contact Subject"
+msgstr ""
+
+#: /views/contacts/admin_index.ctp:3
+msgid "Contacts"
+msgstr ""
+
+#: /views/contacts/admin_index.ctp:10
+#: /views/contacts/admin_view.ctp:20
+msgid "Message"
+msgstr ""
+
+#: /views/contacts/admin_index.ctp:11
+#: /views/contacts/admin_view.ctp:25
+msgid "From IP Address"
+msgstr ""
+
+#: /views/contacts/admin_view.ctp:45
+msgid "Delete Contact Us Message"
+msgstr ""
+
+#: /views/events/admin_add.ctp:4
+msgid "Add New News &amp; Event"
+msgstr ""
+
+#: /views/events/admin_add.ctp:6
+#: /views/events/admin_edit.ctp:6
+#: /views/events/admin_view.ctp:14
+#: /views/info_pages/admin_index.ctp:7
+#: /views/info_pages/admin_view.ctp:9
+msgid "Title EN"
+msgstr ""
+
+#: /views/events/admin_add.ctp:9
+#: /views/events/admin_edit.ctp:9
+#: /views/events/admin_view.ctp:29
+#: /views/info_pages/admin_index.ctp:8
+#: /views/info_pages/admin_view.ctp:14
+msgid "Content EN"
+msgstr ""
+
+#: /views/events/admin_add.ctp:26
+#: /views/events/admin_edit.ctp:24
+#: /views/events/admin_view.ctp:75
+msgid "List Events"
+msgstr ""
+
+#: /views/events/admin_edit.ctp:23
+#: /views/events/admin_index.ctp:33
+#: /views/events/admin_view.ctp:74
+msgid "Are you sure you want to delete this news & event?"
+msgstr ""
+
+#: /views/events/admin_index.ctp:2
+msgid "News &amp; Events"
+msgstr ""
+
+#: /views/events/admin_index.ctp:7
+msgid "Posted by"
+msgstr ""
+
+#: /views/events/admin_index.ctp:8
+#: /views/events/admin_view.ctp:46
+msgid "Type"
+msgstr ""
+
+#: /views/events/admin_index.ctp:9
+#: /views/events/admin_view.ctp:9
+#: /views/info_pages/admin_index.ctp:9
+#: /views/info_pages/admin_view.ctp:19
+#: /views/website_images/admin_view.ctp:17
+msgid "Title"
+msgstr ""
+
+#: /views/events/admin_index.ctp:10
+#: /views/events/admin_view.ctp:34
+#: /views/polls/admin_index.ctp:9
+msgid "Published?"
+msgstr ""
+
+#: /views/events/admin_index.ctp:11
+msgid "Date"
+msgstr ""
+
+#: /views/events/admin_index.ctp:32
+msgid "Un-Publish"
+msgstr ""
+
+#: /views/events/admin_index.ctp:32
+msgid "Publish"
+msgstr ""
+
+#: /views/events/admin_index.ctp:56
+#: /views/events/admin_view.ctp:76
+msgid "New Event"
+msgstr ""
+
+#: /views/events/admin_view.ctp:4
+#: /views/info_pages/admin_view.ctp:4
+#: /views/stores/admin_view.ctp:9
+msgid "Posted By"
+msgstr ""
+
+#: /views/events/admin_view.ctp:19
+msgid "Teaser"
+msgstr ""
+
+#: /views/events/admin_view.ctp:24
+#: /views/info_pages/admin_index.ctp:10
+#: /views/info_pages/admin_view.ctp:24
+msgid "Content"
+msgstr ""
+
+#: /views/events/admin_view.ctp:40
+#: /views/galleries/admin_view.ctp:20
+#: /views/item_categories/admin_view.ctp:20
+#: /views/item_images/admin_view.ctp:10
+#: /views/item_types/admin_view.ctp:25
+#: /views/items/admin_view.ctp:88
+msgid "Image"
+msgstr ""
+
+#: /views/events/admin_view.ctp:52
+msgid "Event Date"
+msgstr ""
+
+#: /views/events/admin_view.ctp:73
+msgid "Edit Event"
+msgstr ""
+
+#: /views/events/admin_view.ctp:74
+msgid "Delete Event"
+msgstr ""
+
+#: /views/galleries/admin_add.ctp:13
+msgid "Admin Add Image"
+msgstr ""
+
+#: /views/galleries/admin_edit.ctp:13
+msgid "Admin Edit Image"
+msgstr ""
+
+#: /views/galleries/admin_edit.ctp:27
+#: /views/galleries/admin_view.ctp:42
+msgid "Delete Image"
+msgstr ""
+
+#: /views/galleries/admin_edit.ctp:27
+#: /views/galleries/admin_view.ctp:42
+msgid "Are you sure you want to delete this gallery?"
+msgstr ""
+
+#: /views/galleries/admin_view.ctp:2
+msgid "Image Detail"
+msgstr ""
+
+#: /views/galleries/admin_view.ctp:14
+msgid "Photographer"
+msgstr ""
+
+#: /views/galleries/admin_view.ctp:41
+msgid "Edit Image"
+msgstr ""
+
+#: /views/info_pages/admin_edit.ctp:4
+#: /views/info_pages/admin_view.ctp:44
+msgid "Edit Information"
+msgstr ""
+
+#: /views/info_pages/admin_edit.ctp:5
+msgid "Options"
+msgstr ""
+
+#: /views/info_pages/admin_edit.ctp:28
+#: /views/info_pages/admin_view.ctp:45
+msgid "List Informations"
+msgstr ""
+
+#: /views/info_pages/admin_index.ctp:2
+msgid "Informations"
+msgstr ""
+
+#: /views/item_brands/admin_add.ctp:4
+msgid "Add Item Brand"
+msgstr ""
+
+#: /views/item_brands/admin_add.ctp:16
+#: /views/item_brands/admin_edit.ctp:17
+#: /views/item_brands/admin_view.ctp:41
+#: /views/items/admin_add.ctp:43
+#: /views/items/admin_add_stock.ctp:35
+#: /views/items/admin_edit.ctp:38
+#: /views/items/admin_index.ctp:71
+#: /views/items/admin_view.ctp:131
+msgid "List Item Brands"
+msgstr ""
+
+#: /views/item_brands/admin_add.ctp:17
+#: /views/item_brands/admin_edit.ctp:18
+#: /views/item_brands/admin_index.ctp:48
+#: /views/item_brands/admin_view.ctp:43
+#: /views/item_colors/admin_add.ctp:17
+#: /views/item_colors/admin_edit.ctp:18
+#: /views/item_colors/admin_index.ctp:48
+#: /views/item_colors/admin_view.ctp:43
+#: /views/item_groups/admin_add.ctp:16
+#: /views/item_groups/admin_edit.ctp:17
+#: /views/item_groups/admin_index.ctp:46
+#: /views/item_groups/admin_view.ctp:38
+#: /views/item_images/admin_add.ctp:29
+#: /views/item_images/admin_edit.ctp:32
+#: /views/item_images/admin_view.ctp:34
+#: /views/item_recomends/admin_add.ctp:28
+#: /views/item_recomends/admin_edit.ctp:30
+#: /views/item_recomends/admin_view.ctp:37
+#: /views/item_sizes/admin_add.ctp:16
+#: /views/item_sizes/admin_edit.ctp:17
+#: /views/item_sizes/admin_index.ctp:46
+#: /views/item_sizes/admin_view.ctp:38
+#: /views/item_types/admin_add.ctp:20
+#: /views/item_types/admin_edit.ctp:22
+#: /views/item_types/admin_index.ctp:50
+#: /views/item_types/admin_view.ctp:52
+#: /views/items/admin_add.ctp:42
+#: /views/items/admin_add_stock.ctp:34
+#: /views/items/admin_edit.ctp:37
+#: /views/items/admin_view.ctp:129
+#: /views/tags/admin_add.ctp:15
+#: /views/tags/admin_edit.ctp:18
+#: /views/tags/admin_index.ctp:46
+#: /views/tags/admin_view.ctp:35
+#: /views/users/admin_dashboard.ctp:13
+msgid "List Items"
+msgstr ""
+
+#: /views/item_brands/admin_add.ctp:18
+#: /views/item_brands/admin_edit.ctp:19
+#: /views/item_brands/admin_index.ctp:49
+#: /views/item_brands/admin_view.ctp:44;96
+#: /views/item_colors/admin_add.ctp:18
+#: /views/item_colors/admin_edit.ctp:19
+#: /views/item_colors/admin_index.ctp:49
+#: /views/item_colors/admin_view.ctp:44;96
+#: /views/item_groups/admin_add.ctp:17
+#: /views/item_groups/admin_edit.ctp:18
+#: /views/item_groups/admin_index.ctp:47
+#: /views/item_groups/admin_view.ctp:39;91
+#: /views/item_images/admin_add.ctp:30
+#: /views/item_images/admin_edit.ctp:33
+#: /views/item_images/admin_view.ctp:35
+#: /views/item_recomends/admin_add.ctp:29
+#: /views/item_recomends/admin_edit.ctp:31
+#: /views/item_recomends/admin_view.ctp:38
+#: /views/item_sizes/admin_add.ctp:17
+#: /views/item_sizes/admin_edit.ctp:18
+#: /views/item_sizes/admin_index.ctp:47
+#: /views/item_sizes/admin_view.ctp:39;91
+#: /views/item_types/admin_add.ctp:21
+#: /views/item_types/admin_edit.ctp:23
+#: /views/item_types/admin_index.ctp:51
+#: /views/item_types/admin_view.ctp:53;105
+#: /views/items/admin_index.ctp:70
+#: /views/items/admin_view.ctp:130
+#: /views/tags/admin_add.ctp:16
+#: /views/tags/admin_edit.ctp:19
+#: /views/tags/admin_index.ctp:47
+#: /views/tags/admin_view.ctp:36;88
+msgid "New Item"
+msgstr ""
+
+#: /views/item_brands/admin_edit.ctp:4
+#: /views/item_brands/admin_view.ctp:39
+msgid "Edit Item Brand"
+msgstr ""
+
+#: /views/item_brands/admin_index.ctp:2
+msgid "Item Brands"
+msgstr ""
+
+#: /views/item_brands/admin_index.ctp:6
+msgid "Brand ID"
+msgstr ""
+
+#: /views/item_brands/admin_index.ctp:7
+#: /views/item_brands/admin_view.ctp:9
+msgid "Brand Name"
+msgstr ""
+
+#: /views/item_brands/admin_index.ctp:8
+#: /views/item_brands/admin_view.ctp:14
+msgid "Brand Logo"
+msgstr ""
+
+#: /views/item_brands/admin_index.ctp:47
+#: /views/item_brands/admin_view.ctp:42
+#: /views/items/admin_add.ctp:44
+#: /views/items/admin_add_stock.ctp:36
+#: /views/items/admin_edit.ctp:39
+#: /views/items/admin_index.ctp:72
+#: /views/items/admin_view.ctp:132
+msgid "New Item Brand"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:2
+#: /views/items/admin_view.ctp:14
+msgid "Item Brand"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:4
+msgid "Brand Id"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:19
+#: /views/item_categories/admin_view.ctp:14
+#: /views/item_colors/admin_view.ctp:19
+#: /views/item_groups/admin_view.ctp:14
+#: /views/item_sizes/admin_view.ctp:14
+#: /views/item_types/admin_view.ctp:19
+#: /views/items/admin_view.ctp:77
+#: /views/users/admin_index.ctp:66
+msgid "Active"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:40
+msgid "Delete Item Brand"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:48
+#: /views/item_colors/admin_view.ctp:48
+#: /views/item_groups/admin_view.ctp:43
+#: /views/item_sizes/admin_view.ctp:43
+#: /views/item_types/admin_view.ctp:57
+#: /views/tags/admin_view.ctp:40
+msgid "Related Items"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:52
+#: /views/item_colors/admin_view.ctp:52
+#: /views/item_groups/admin_view.ctp:47
+#: /views/item_sizes/admin_view.ctp:47
+#: /views/item_types/admin_view.ctp:61
+#: /views/items/admin_index.ctp:14
+#: /views/items/admin_view.ctp:4
+#: /views/tags/admin_view.ctp:44
+msgid "Item ID"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:54
+#: /views/item_colors/admin_view.ctp:54
+#: /views/item_groups/admin_view.ctp:49
+#: /views/item_sizes/admin_view.ctp:49
+#: /views/item_types/admin_view.ctp:2;63
+#: /views/items/admin_index.ctp:16
+#: /views/items/admin_view.ctp:19
+#: /views/tags/admin_view.ctp:46
+msgid "Item Type"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:55
+#: /views/item_colors/admin_view.ctp:55
+#: /views/item_groups/admin_view.ctp:50
+#: /views/item_sizes/admin_view.ctp:50
+#: /views/item_types/admin_view.ctp:64
+#: /views/items/admin_index.ctp:17
+#: /views/items/admin_view.ctp:39
+#: /views/tags/admin_view.ctp:47
+msgid "Sales Price"
+msgstr ""
+
+#: /views/item_brands/admin_view.ctp:56
+#: /views/item_colors/admin_view.ctp:56
+#: /views/item_groups/admin_view.ctp:51
+#: /views/item_sizes/admin_view.ctp:51
+#: /views/item_types/admin_view.ctp:65
+#: /views/items/admin_add_stock.ctp:14
+#: /views/items/admin_index.ctp:18
+#: /views/items/admin_view.ctp:71
+#: /views/tags/admin_view.ctp:48
+msgid "Actual Stock"
+msgstr ""
+
+#: /views/item_categories/admin_add.ctp:4
+msgid "Add Item Category"
+msgstr ""
+
+#: /views/item_categories/admin_add.ctp:15
+#: /views/item_categories/admin_edit.ctp:17
+#: /views/item_categories/admin_view.ctp:38
+msgid "List Item Categories"
+msgstr ""
+
+#: /views/item_categories/admin_edit.ctp:4
+#: /views/item_categories/admin_view.ctp:36
+msgid "Edit Item Category"
+msgstr ""
+
+#: /views/item_categories/admin_index.ctp:2
+msgid "Item Categories"
+msgstr ""
+
+#: /views/item_categories/admin_index.ctp:43
+#: /views/item_categories/admin_view.ctp:39
+msgid "New Item Category"
+msgstr ""
+
+#: /views/item_categories/admin_view.ctp:2
+msgid "Item Category"
+msgstr ""
+
+#: /views/item_categories/admin_view.ctp:4
+msgid "Category Id"
+msgstr ""
+
+#: /views/item_categories/admin_view.ctp:9
+msgid "Category Name"
+msgstr ""
+
+#: /views/item_categories/admin_view.ctp:37
+msgid "Delete Item Category"
+msgstr ""
+
+#: /views/item_colors/admin_add.ctp:4
+msgid "Add Item Color"
+msgstr ""
+
+#: /views/item_colors/admin_add.ctp:16
+#: /views/item_colors/admin_edit.ctp:17
+#: /views/item_colors/admin_view.ctp:41
+#: /views/items/admin_add.ctp:51
+#: /views/items/admin_add_stock.ctp:43
+#: /views/items/admin_edit.ctp:46
+#: /views/items/admin_index.ctp:79
+#: /views/items/admin_view.ctp:139
+msgid "List Item Colors"
+msgstr ""
+
+#: /views/item_colors/admin_edit.ctp:4
+#: /views/item_colors/admin_view.ctp:39
+msgid "Edit Item Color"
+msgstr ""
+
+#: /views/item_colors/admin_index.ctp:2
+msgid "Item Colors"
+msgstr ""
+
+#: /views/item_colors/admin_index.ctp:6
+msgid "Color ID"
+msgstr ""
+
+#: /views/item_colors/admin_index.ctp:7
+#: /views/item_colors/admin_view.ctp:9
+msgid "Color Name"
+msgstr ""
+
+#: /views/item_colors/admin_index.ctp:8
+#: /views/item_colors/admin_view.ctp:14
+msgid "Hexa Decimal"
+msgstr ""
+
+#: /views/item_colors/admin_index.ctp:47
+#: /views/item_colors/admin_view.ctp:42
+#: /views/items/admin_add.ctp:52
+#: /views/items/admin_add_stock.ctp:44
+#: /views/items/admin_edit.ctp:47
+#: /views/items/admin_index.ctp:80
+#: /views/items/admin_view.ctp:140
+msgid "New Item Color"
+msgstr ""
+
+#: /views/item_colors/admin_view.ctp:2
+#: /views/items/admin_view.ctp:34
+msgid "Item Color"
+msgstr ""
+
+#: /views/item_colors/admin_view.ctp:4
+msgid "Color Id"
+msgstr ""
+
+#: /views/item_colors/admin_view.ctp:40
+msgid "Delete Item Color"
+msgstr ""
+
+#: /views/item_groups/admin_add.ctp:4
+msgid "Add Item Group"
+msgstr ""
+
+#: /views/item_groups/admin_add.ctp:15
+#: /views/item_groups/admin_edit.ctp:16
+#: /views/item_groups/admin_view.ctp:36
+#: /views/items/admin_add.ctp:47
+#: /views/items/admin_add_stock.ctp:39
+#: /views/items/admin_edit.ctp:42
+#: /views/items/admin_index.ctp:75
+#: /views/items/admin_view.ctp:135
+msgid "List Item Groups"
+msgstr ""
+
+#: /views/item_groups/admin_edit.ctp:4
+#: /views/item_groups/admin_view.ctp:34
+msgid "Edit Item Group"
+msgstr ""
+
+#: /views/item_groups/admin_index.ctp:2
+msgid "Item Groups"
+msgstr ""
+
+#: /views/item_groups/admin_index.ctp:6
+msgid "Group ID"
+msgstr ""
+
+#: /views/item_groups/admin_index.ctp:7
+#: /views/item_groups/admin_view.ctp:9
+msgid "Group Name"
+msgstr ""
+
+#: /views/item_groups/admin_index.ctp:45
+#: /views/item_groups/admin_view.ctp:37
+#: /views/items/admin_add.ctp:48
+#: /views/items/admin_add_stock.ctp:40
+#: /views/items/admin_edit.ctp:43
+#: /views/items/admin_index.ctp:76
+#: /views/items/admin_view.ctp:136
+msgid "New Item Group"
+msgstr ""
+
+#: /views/item_groups/admin_view.ctp:2
+#: /views/items/admin_view.ctp:24
+msgid "Item Group"
+msgstr ""
+
+#: /views/item_groups/admin_view.ctp:4
+msgid "Group Id"
+msgstr ""
+
+#: /views/item_groups/admin_view.ctp:35
+msgid "Delete Item Group"
+msgstr ""
+
+#: /views/item_images/admin_add.ctp:2
+#: /views/item_images/admin_edit.ctp:2
+#: /views/item_images/admin_view.ctp:4
+#: /views/item_recomends/admin_add.ctp:2
+#: /views/item_recomends/admin_edit.ctp:2
+#: /views/items/admin_add_stock.ctp:2
+#: /views/items/admin_view.ctp:2
+msgid "Item"
+msgstr ""
+
+#: /views/item_images/admin_add.ctp:4
+#: /views/item_images/admin_edit.ctp:4
+#: /views/item_recomends/admin_add.ctp:4
+#: /views/item_recomends/admin_edit.ctp:4
+#: /views/items/admin_add_stock.ctp:4
+msgid "Item Id"
+msgstr ""
+
+#: /views/item_images/admin_add.ctp:18
+msgid "Add Item Image"
+msgstr ""
+
+#: /views/item_images/admin_edit.ctp:18
+#: /views/item_images/admin_view.ctp:31
+msgid "Edit Item Image"
+msgstr ""
+
+#: /views/item_images/admin_view.ctp:2
+msgid "Item Image"
+msgstr ""
+
+#: /views/item_images/admin_view.ctp:32
+msgid "Delete Item Image"
+msgstr ""
+
+#: /views/item_images/admin_view.ctp:33
+#: /views/items/admin_add.ctp:54
+#: /views/items/admin_add_stock.ctp:46
+#: /views/items/admin_edit.ctp:49
+#: /views/items/admin_view.ctp:184
+msgid "New Item Image"
+msgstr ""
+
+#: /views/item_recomends/admin_add.ctp:18
+msgid "Admin Add Item Recomend"
+msgstr ""
+
+#: /views/item_recomends/admin_edit.ctp:18
+msgid "Admin Edit Item Recomend"
+msgstr ""
+
+#: /views/item_recomends/admin_view.ctp:2
+msgid "Item Recomend"
+msgstr ""
+
+#: /views/item_recomends/admin_view.ctp:34
+msgid "Edit Item Recomend"
+msgstr ""
+
+#: /views/item_recomends/admin_view.ctp:35
+msgid "Delete Item Recomend"
+msgstr ""
+
+#: /views/item_recomends/admin_view.ctp:36
+#: /views/items/admin_view.ctp:272
+msgid "New Item Recomend"
+msgstr ""
+
+#: /views/item_sizes/admin_add.ctp:4
+msgid "Add Item Size"
+msgstr ""
+
+#: /views/item_sizes/admin_add.ctp:15
+#: /views/item_sizes/admin_edit.ctp:16
+#: /views/item_sizes/admin_view.ctp:36
+#: /views/items/admin_add.ctp:49
+#: /views/items/admin_add_stock.ctp:41
+#: /views/items/admin_edit.ctp:44
+#: /views/items/admin_index.ctp:77
+#: /views/items/admin_view.ctp:137
+msgid "List Item Sizes"
+msgstr ""
+
+#: /views/item_sizes/admin_edit.ctp:4
+#: /views/item_sizes/admin_view.ctp:34
+msgid "Edit Item Size"
+msgstr ""
+
+#: /views/item_sizes/admin_index.ctp:2
+msgid "Item Sizes"
+msgstr ""
+
+#: /views/item_sizes/admin_index.ctp:6
+msgid "Size ID"
+msgstr ""
+
+#: /views/item_sizes/admin_index.ctp:45
+#: /views/item_sizes/admin_view.ctp:37
+#: /views/items/admin_add.ctp:50
+#: /views/items/admin_add_stock.ctp:42
+#: /views/items/admin_edit.ctp:45
+#: /views/items/admin_index.ctp:78
+#: /views/items/admin_view.ctp:138
+msgid "New Item Size"
+msgstr ""
+
+#: /views/item_sizes/admin_view.ctp:2
+#: /views/items/admin_view.ctp:29
+msgid "Item Size"
+msgstr ""
+
+#: /views/item_sizes/admin_view.ctp:4
+msgid "Size Id"
+msgstr ""
+
+#: /views/item_sizes/admin_view.ctp:35
+msgid "Delete Item Size"
+msgstr ""
+
+#: /views/item_types/admin_add.ctp:4
+msgid "Add Item Type"
+msgstr ""
+
+#: /views/item_types/admin_edit.ctp:4
+#: /views/item_types/admin_view.ctp:46
+msgid "Edit Item Type"
+msgstr ""
+
+#: /views/item_types/admin_index.ctp:2
+msgid "Item Types"
+msgstr ""
+
+#: /views/item_types/admin_index.ctp:7
+#: /views/item_types/admin_view.ctp:14
+#: /views/products/admin_view.ctp:9
+msgid "Category"
+msgstr ""
+
+#: /views/item_types/admin_view.ctp:4
+msgid "Type Id"
+msgstr ""
+
+#: /views/item_types/admin_view.ctp:47
+msgid "Delete Item Type"
+msgstr ""
+
+#: /views/items/admin_add.ctp:4
+msgid "Add Item"
+msgstr ""
+
+#: /views/items/admin_add.ctp:31
+msgid "Add Item Recomend"
+msgstr ""
+
+#: /views/items/admin_add.ctp:53
+#: /views/items/admin_add_stock.ctp:45
+#: /views/items/admin_edit.ctp:48
+msgid "List Item Images"
+msgstr ""
+
+#: /views/items/admin_add.ctp:55
+#: /views/items/admin_add_stock.ctp:47
+#: /views/items/admin_edit.ctp:50
+#: /views/items/admin_index.ctp:81
+#: /views/items/admin_view.ctp:141
+#: /views/products/admin_add.ctp:22
+#: /views/products/admin_edit.ctp:25
+#: /views/products/admin_index.ctp:55
+#: /views/products/admin_view.ctp:61
+#: /views/tags/admin_add.ctp:14
+#: /views/tags/admin_edit.ctp:17
+#: /views/tags/admin_view.ctp:33
+msgid "List Tags"
+msgstr ""
+
+#: /views/items/admin_add.ctp:56
+#: /views/items/admin_add_stock.ctp:48
+#: /views/items/admin_edit.ctp:51
+#: /views/items/admin_index.ctp:82
+#: /views/items/admin_view.ctp:142
+#: /views/tags/admin_index.ctp:45
+#: /views/tags/admin_view.ctp:34
+msgid "New Tag"
+msgstr ""
+
+#: /views/items/admin_add_stock.ctp:23
+msgid "Add Item Stock"
+msgstr ""
+
+#: /views/items/admin_edit.ctp:4
+#: /views/items/admin_view.ctp:127
+msgid "Edit Item"
+msgstr ""
+
+#: /views/items/admin_index.ctp:2
+msgid "Items"
+msgstr ""
+
+#: /views/items/admin_index.ctp:58
+msgid "first"
+msgstr ""
+
+#: /views/items/admin_index.ctp:62
+msgid "last"
+msgstr ""
+
+#: /views/items/admin_index.ctp:90
+msgid "Item per page"
+msgstr ""
+
+#: /views/items/admin_index.ctp:100
+msgid "Go"
+msgstr ""
+
+#: /views/items/admin_view.ctp:44
+msgid "Pricing Method"
+msgstr ""
+
+#: /views/items/admin_view.ctp:49
+msgid "Margin"
+msgstr ""
+
+#: /views/items/admin_view.ctp:54
+msgid "Margin Pct"
+msgstr ""
+
+#: /views/items/admin_view.ctp:60
+msgid "Cost Price"
+msgstr ""
+
+#: /views/items/admin_view.ctp:65
+msgid "Discount Pct"
+msgstr ""
+
+#: /views/items/admin_view.ctp:75
+msgid "Add Stock"
+msgstr ""
+
+#: /views/items/admin_view.ctp:94
+msgid "Last View Time"
+msgstr ""
+
+#: /views/items/admin_view.ctp:99
+msgid "Is Recommended"
+msgstr ""
+
+#: /views/items/admin_view.ctp:101
+msgid "Yes"
+msgstr ""
+
+#: /views/items/admin_view.ctp:101
+msgid "No"
+msgstr ""
+
+#: /views/items/admin_view.ctp:115
+#: /views/tags/admin_view.ctp:2
+msgid "Tag"
+msgstr ""
+
+#: /views/items/admin_view.ctp:128
+msgid "Delete Item"
+msgstr ""
+
+#: /views/items/admin_view.ctp:146
+msgid "Related Item Images"
+msgstr ""
+
+#: /views/items/admin_view.ctp:150;193;236
+msgid "ID"
+msgstr ""
+
+#: /views/items/admin_view.ctp:189
+msgid "Related Item Material Images"
+msgstr ""
+
+#: /views/items/admin_view.ctp:227
+msgid "New Item Material Image"
+msgstr ""
+
+#: /views/items/admin_view.ctp:232
+msgid "Related Item Recomends"
+msgstr ""
+
+#: /views/items/admin_view.ctp:237
+msgid "Recomend Item"
+msgstr ""
+
+#: /views/layouts/admin.ctp:49
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: /views/newsletters/admin_index.ctp:2
+#: /views/users/admin_dashboard.ctp:24
+msgid "Newsletters"
+msgstr ""
+
+#: /views/newsletters/admin_index.ctp:15
+#: /views/users/admin_index.ctp:16
+#: /views/users/admin_view.ctp:19
+msgid "Status"
+msgstr ""
+
+#: /views/newsletters/admin_index.ctp:16
+#: /views/users/admin_dashboard.ctp:36;67;99;131;163;195
+msgid "Last modified on"
+msgstr ""
+
+#: /views/newsletters/admin_index.ctp:32
+msgid "Are you sure you want to delete this subscriber"
+msgstr ""
+
+#: /views/newsletters/admin_index.ctp:57
+#: /views/users/admin_dashboard.ctp:8
+#: /views/users/admin_edit.ctp:29
+#: /views/users/admin_view.ctp:66
+msgid "List Users"
+msgstr ""
+
+#: /views/polls/admin_add.ctp:4
+msgid "Add Poll"
+msgstr ""
+
+#: /views/polls/admin_add.ctp:31
+#: /views/polls/admin_edit.ctp:32
+#: /views/polls/admin_view.ctp:33
+#: /views/users/admin_dashboard.ctp:17
+msgid "List Polls"
+msgstr ""
+
+#: /views/polls/admin_edit.ctp:4
+#: /views/polls/admin_view.ctp:31
+msgid "Edit Poll"
+msgstr ""
+
+#: /views/polls/admin_edit.ctp:31
+#: /views/polls/admin_index.ctp:38
+#: /views/polls/admin_view.ctp:32
+msgid "Are you sure you want to delete this poll?"
+msgstr ""
+
+#: /views/polls/admin_index.ctp:2
+msgid "Polls"
+msgstr ""
+
+#: /views/polls/admin_index.ctp:7
+msgid "Question"
+msgstr ""
+
+#: /views/polls/admin_index.ctp:8
+msgid "Question EN"
+msgstr ""
+
+#: /views/polls/admin_index.ctp:10
+msgid "Poll Type"
+msgstr ""
+
+#: /views/polls/admin_index.ctp:59
+#: /views/polls/admin_view.ctp:34
+msgid "New Poll"
+msgstr ""
+
+#: /views/polls/admin_view.ctp:2
+msgid "Indonesian Version"
+msgstr ""
+
+#: /views/polls/admin_view.ctp:15
+msgid "English Version"
+msgstr ""
+
+#: /views/polls/admin_view.ctp:32
+msgid "Delete Poll"
+msgstr ""
+
+#: /views/products/admin_add.ctp:4
+msgid "Add Product"
+msgstr ""
+
+#: /views/products/admin_add.ctp:20
+#: /views/products/admin_edit.ctp:23
+#: /views/products/admin_view.ctp:58
+msgid "List Products"
+msgstr ""
+
+#: /views/products/admin_edit.ctp:4
+#: /views/products/admin_view.ctp:56
+msgid "Edit Product"
+msgstr ""
+
+#: /views/products/admin_index.ctp:2
+#: /views/users/admin_dashboard.ctp:10
+msgid "Products"
+msgstr ""
+
+#: /views/products/admin_index.ctp:53
+#: /views/products/admin_view.ctp:59
+msgid "New Product"
+msgstr ""
+
+#: /views/products/admin_view.ctp:2
+msgid "Product"
+msgstr ""
+
+#: /views/products/admin_view.ctp:24
+msgid "Sku"
+msgstr ""
+
+#: /views/products/admin_view.ctp:29
+msgid "Color"
+msgstr ""
+
+#: /views/products/admin_view.ctp:40
+msgid "Main Image"
+msgstr ""
+
+#: /views/products/admin_view.ctp:57
+msgid "Delete Product"
+msgstr ""
+
+#: /views/products/admin_view.ctp:65
+msgid "Related Product Images"
+msgstr ""
+
+#: /views/products/admin_view.ctp:70
+msgid "Product Id"
+msgstr ""
+
+#: /views/products/admin_view.ctp:71
+msgid "Image Filename"
+msgstr ""
+
+#: /views/products/admin_view.ctp:95
+msgid "New Product Image"
+msgstr ""
+
+#: /views/push_agents/admin_add.ctp:4
+msgid "Admin Add Push Agent"
+msgstr ""
+
+#: /views/push_agents/admin_add.ctp:14
+#: /views/push_agents/admin_edit.ctp:16
+#: /views/push_agents/admin_view.ctp:31
+msgid "List Push Agents"
+msgstr ""
+
+#: /views/push_agents/admin_edit.ctp:4
+msgid "Admin Edit Push Agent"
+msgstr ""
+
+#: /views/push_agents/admin_edit.ctp:15
+msgid "Are you sure you want to delete this push agent?"
+msgstr ""
+
+#: /views/push_agents/admin_index.ctp:2
+msgid "Push Agents"
+msgstr ""
+
+#: /views/push_agents/admin_index.ctp:8
+#: /views/push_agents/admin_view.ctp:9
+msgid "Auth Key"
+msgstr ""
+
+#: /views/push_agents/admin_index.ctp:47
+#: /views/push_agents/admin_view.ctp:32
+msgid "New Push Agent"
+msgstr ""
+
+#: /views/push_agents/admin_view.ctp:2
+msgid "Push Agent"
+msgstr ""
+
+#: /views/push_agents/admin_view.ctp:29
+msgid "Edit Push Agent"
+msgstr ""
+
+#: /views/push_agents/admin_view.ctp:30
+msgid "Delete Push Agent"
+msgstr ""
+
+#: /views/settings/admin_index.ctp:4
+msgid "Edit Setting"
+msgstr ""
+
+#: /views/settings/admin_index.ctp:28
+#: /views/website_images/admin_add.ctp:21
+#: /views/website_images/admin_edit.ctp:24
+#: /views/website_images/admin_index.ctp:63
+#: /views/website_images/admin_view.ctp:50
+msgid "Website Setting"
+msgstr ""
+
+#: /views/stores/admin_add.ctp:4
+msgid "Add New Store"
+msgstr ""
+
+#: /views/stores/admin_add.ctp:24
+#: /views/stores/admin_edit.ctp:27
+#: /views/stores/admin_view.ctp:70
+msgid "List Stores"
+msgstr ""
+
+#: /views/stores/admin_edit.ctp:26
+#: /views/stores/admin_index.ctp:30
+#: /views/stores/admin_view.ctp:69
+msgid "Are you sure you want to delete this store?"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:2
+msgid "Stores"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:7
+#: /views/stores/admin_view.ctp:14
+msgid "Store Name"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:8
+#: /views/users/admin_view.ctp:34
+msgid "Address"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:9
+msgid "City"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:10
+msgid "Country"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:26
+#: /views/website_images/admin_index.ctp:24
+msgid "Up"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:27
+#: /views/website_images/admin_index.ctp:25
+msgid "Down"
+msgstr ""
+
+#: /views/stores/admin_index.ctp:53
+#: /views/stores/admin_view.ctp:71
+msgid "New Store"
+msgstr ""
+
+#: /views/stores/admin_view.ctp:4
+#: /views/users/admin_view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: /views/stores/admin_view.ctp:20
+msgid "Store Image"
+msgstr ""
+
+#: /views/stores/admin_view.ctp:26
+msgid "Store Address"
+msgstr ""
+
+#: /views/stores/admin_view.ctp:35
+msgid "Google Map"
+msgstr ""
+
+#: /views/stores/admin_view.ctp:43
+msgid "Store Phone"
+msgstr ""
+
+#: /views/stores/admin_view.ctp:48
+msgid "Store Email"
+msgstr ""
+
+#: /views/stores/admin_view.ctp:69
+msgid "Delete Store"
+msgstr ""
+
+#: /views/tags/admin_add.ctp:4
+msgid "Add Tag"
+msgstr ""
+
+#: /views/tags/admin_edit.ctp:4
+#: /views/tags/admin_view.ctp:31
+msgid "Edit Tag"
+msgstr ""
+
+#: /views/tags/admin_index.ctp:2
+msgid "Tags"
+msgstr ""
+
+#: /views/tags/admin_view.ctp:10
+msgid "Tag Image"
+msgstr ""
+
+#: /views/tags/admin_view.ctp:32
+msgid "Delete Tag"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:1
+msgid "Admin Dashboard"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:4
+msgid "Homescreen Management"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:5
+msgid "Setting"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:7
+msgid "Customers"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:16
+msgid "Surveys/Polls"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:18
+msgid "Published Polls"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:19
+msgid "Not Published Polls"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:21
+msgid "Transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:22
+msgid "List Transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:25
+#: /views/users/admin_index.ctp:74
+msgid "List Newsletters"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:29
+msgid "Transactions Summary"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:30
+msgid "Open transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:56
+msgid "No open transaction."
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:60
+msgid "Checkout transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:88
+msgid "No Checkout transaction."
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:92
+msgid "Confirmed transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:120
+msgid "No Confirmed transaction."
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:124
+msgid "Paid transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:152
+msgid "No paid transaction."
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:156
+msgid "Shipped transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:184
+msgid "No shipped transaction."
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:188
+msgid "Closed transactions"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:216
+msgid "No Closed transaction."
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:220
+msgid "User Summary"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:222;237
+msgid "Today"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:227;242
+msgid "This Month"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:235
+msgid "Message Summary"
+msgstr ""
+
+#: /views/users/admin_dashboard.ctp:224;229
+msgid " User"
+msgid_plural " Users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /views/users/admin_dashboard.ctp:239;244
+msgid " Message"
+msgid_plural " Messages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /views/users/admin_edit.ctp:4
+#: /views/users/admin_view.ctp:64
+msgid "Edit User"
+msgstr ""
+
+#: /views/users/admin_edit.ctp:28
+msgid "Are you sure you want to delete  this user?"
+msgstr ""
+
+#: /views/users/admin_index.ctp:2
+msgid "User List"
+msgstr ""
+
+#: /views/users/admin_index.ctp:17
+#: /views/users/admin_view.ctp:44
+msgid "Newsletter?"
+msgstr ""
+
+#: /views/users/admin_index.ctp:46
+msgid "Are you sure want to delete this user?"
+msgstr ""
+
+#: /views/users/admin_index.ctp:67
+msgid "Banned"
+msgstr ""
+
+#: /views/users/admin_view.ctp:2
+msgid "User Detail"
+msgstr ""
+
+#: /views/users/admin_view.ctp:24
+msgid "Full Name"
+msgstr ""
+
+#: /views/users/admin_view.ctp:29
+msgid "Email"
+msgstr ""
+
+#: /views/users/admin_view.ctp:39
+msgid "Phone Number"
+msgstr ""
+
+#: /views/users/admin_view.ctp:65
+msgid "Delete User"
+msgstr ""
+
+#: /views/users/admin_view.ctp:65
+msgid "Are you sure you want to delete this user?"
+msgstr ""
+
+#: /views/website_images/admin_edit.ctp:23
+#: /views/website_images/admin_index.ctp:28
+#: /views/website_images/admin_view.ctp:49
+msgid "Are you sure you want to delete this image?"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:7
+msgid "Image For"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:9
+#: /views/website_images/admin_view.ctp:11
+msgid "Is Active?"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:10
+msgid "Last Modified"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:21
+#: /views/website_images/admin_view.ctp:13;29
+msgid "yes"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:21
+#: /views/website_images/admin_view.ctp:13;29
+msgid "no"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:49
+msgid "New Home Screen Image"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:52
+msgid "New Small Landscape Image"
+msgstr ""
+
+#: /views/website_images/admin_index.ctp:55
+msgid "New Small Portrait Image"
+msgstr ""
+
+#: /views/website_images/admin_view.ctp:22
+msgid "Caption"
+msgstr ""
+
+#: /views/website_images/admin_view.ctp:27
+msgid "Is New?"
+msgstr ""
+
+#: /views/website_images/admin_view.ctp:32
+msgid "Link URL"
+msgstr ""
+

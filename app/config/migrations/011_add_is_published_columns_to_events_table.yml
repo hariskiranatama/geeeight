@@ -1,0 +1,11 @@
+---
+UP:
+  add_fields:
+    events:
+      is_published:
+        type: int
+        length: 1
+DOWN:
+  drop_fields:
+    events:
+      is_published: is_published

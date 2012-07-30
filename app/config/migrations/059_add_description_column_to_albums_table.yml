@@ -1,0 +1,11 @@
+---
+UP:
+  add_fields:
+    albums:
+      description:
+        type: string
+        length: 255
+DOWN:
+  drop_fields:
+    albums:
+      description: description

@@ -1,0 +1,23 @@
+---
+DOWN: 
+  drop_table: 
+    - poll_answers
+UP: 
+  create_table: 
+    poll_answers: 
+      poll_id: 
+        type: integer
+        default: false
+        length: 
+        - not_null
+      answer: 
+        type: string
+        default: false
+        length: 100
+        - not_null
+      answer_en: 
+        type: string
+        default: false
+        length: 100
+        - not_null
+

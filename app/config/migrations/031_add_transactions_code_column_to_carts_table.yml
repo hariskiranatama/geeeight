@@ -1,0 +1,11 @@
+---
+UP:
+  add_fields:
+    carts:
+      transactions_code:
+        type: string
+        length: 100
+DOWN:
+  drop_fields:
+    carts:
+      transactions_code: transactions_code

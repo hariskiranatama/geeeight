@@ -1,0 +1,19 @@
+---
+UP:
+  add_fields:
+    carts:
+      sub_total:
+        type: float
+        default: 0.0
+        length: 18,2
+        - not_null
+      total_price:
+        type: float
+        default: 0.0
+        length: 18,2
+        - not_null
+DOWN:
+  drop_fields:
+    carts:
+      - sub_total
+      - total_price

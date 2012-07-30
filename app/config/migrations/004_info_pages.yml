@@ -1,0 +1,23 @@
+---
+DOWN: 
+  drop_table: 
+    - info_pages
+UP: 
+  create_table: 
+    info_pages: 
+      user_id: 
+        type: integer
+        default: false
+        length: 11
+        index: true
+        - not_null
+      title: 
+        type: string
+        default: false
+        length: 255
+        - not_null
+      content: 
+        type: text
+        default: false
+        length: 
+        - is_null
