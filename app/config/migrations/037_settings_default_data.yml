@@ -1,9 +1,0 @@
----
-DOWN: 
-  query:
-    - "TRUNCATE TABLE `settings`"
-UP: 
-  query:
-    - "TRUNCATE TABLE `settings`"
-    - "INSERT INTO `settings` (`setting_key`, `setting_group`, `setting_type`, `setting_label`, `setting_value`, `setting_options`, `setting_weight`, `created`, `modified`) VALUES ('website_title', 'Homescreen', 'text', 'Website Title', 'Welcome to Gee*eight', NULL, 1, NOW(), NOW())"
-    - "INSERT INTO `settings` (`setting_key`, `setting_group`, `setting_type`, `setting_label`, `setting_value`, `setting_options`, `setting_weight`, `created`, `modified`) VALUES ('active_template', 'Homescreen', 'select', 'Active Template', 'horizontal', 'horizontal,vertical,mixed', 2, NOW(), NOW())"
